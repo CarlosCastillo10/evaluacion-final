@@ -19,3 +19,20 @@ Nombre|Provincia|Partido|AnioInicio|AnioFin
 - Usar un widget de ipython
 
 4.- Subir todo al repositorio
+
+
+AUTORES:
+	Carlos Castillo
+	Enrique Cueva
+
+PROCEDIMIENTO:
+
+cd evaluacion-final/evaluacion_final
+
+1. Ejecturar: 
+	scrapy crawl datos_prefectos
+2. Ejecutar:
+	scrapy crawl datos_prefectos1
+3. Ejectutar:
+	scrapy crwal datos_prefectos2
+4. Levantar jupyter y ejecutar el notebook
