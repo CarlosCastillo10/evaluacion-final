@@ -1,0 +1,47 @@
+- En base al atributo Height obtener el promedio de todos los jugadores del mundial
+
+- Obtener un dataset en base al atributo Country del siguiente listado (usted debe generar
+un combobox)
+
+['Argentina', 'Australia', 'Belgium', 'Brazil', 'Colombia',
+       'Costa Rica', 'Croatia', 'Denmark', 'Egypt', 'England', 'France',
+       'Germany', 'Iceland', 'IR Iran', 'Japan', 'Korea Republic',
+       'Mexico', 'Morocco', 'Nigeria', 'Panama', 'Peru', 'Poland',
+       'Portugal', 'Russia', 'Saudi Arabia', 'Senegal', 'Serbia', 'Spain',
+       'Sweden', 'Switzerland', 'Tunisia', 'Uruguay']
+
+
+- Obtener un dataset que permita obtener todos los jugadores menores a 160 cm y que pertenezcan a un país de los siguientes
+['Argentina', 'Australia', 'Belgium', 'Brazil', 'Colombia']
+
+- Obtener un dataset que permita obtener todos los jugadores que han marcado menos de 5 goles
+
+- Las siguientes sentencias, permiten vizualizar los equipos que más jugadores aportaron al mundial:
+ax = data.groupby(['Club']).size().sort_values(ascending=False)[:20].plot.bar(title = u'Clubs', legend=True)
+
+for p in ax.patches:
+    ax.annotate(str(p.get_height()), (p.get_x(), p.get_height()))
+
+Obtener un gráfico que me permita vizualizar los equipos que más aportaron y que pertenezcan a estos países:
+['Sweden', 'Switzerland', 'Tunisia', 'Uruguay']
+
+
+- Obtener un gráfico que me permita vizualizar en base al atributo POS
+
+- Cambiar el atributo DOB a tipo fecha
+
+- Las siguiente sentencias me permiten obtener un gráifico para los jugadores y su tamaño de forma ordenada
+
+data.set_index([data.ShirtName, data.Country], drop=True,inplace=True)
+
+ax = data[(data['Country']=='Russia') | (data['Country']=='Egypt')][['LastName', 'Height']].sort_values(['Height'], ascending=[False])\
+.plot.bar(title = u'Clubs', legend=True, figsize=(16,5), stacked=True)
+
+for p in ax.patches:
+    ax.annotate(str(p.get_height()), (p.get_x() * 1.005, p.get_height() * 1.005))
+
+Se desea usar un widget o dos, que permitan seleccionar los países.
+
+
+
+

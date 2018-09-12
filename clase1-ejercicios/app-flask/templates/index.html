@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Demo2</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/vega@3.0.10"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@2.1.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.0.0"></script>
+</head>
+<body>
+  {{name}}
+  <div id="vis"></div>
+  {{valores}}
+  <script type="text/javascript">
+    var yourVlSpec1 = {{valores|safe}};
+    vegaEmbed("#vis", yourVlSpec1);
+  </script>
+
+</body>
+</html>

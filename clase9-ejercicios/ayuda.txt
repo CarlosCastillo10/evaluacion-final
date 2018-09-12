@@ -1,0 +1,7 @@
+
+
+ax = data_final.groupby(['Provincia']).size()\
+.sort_values(ascending=False)[:26]\
+.plot.bar(title = u'Numero-Planteles', legend=True, figsize=(16,5))
+for p in ax.patches:
+    ax.annotate(str(p.get_height()), (p.get_x(), p.get_height()))

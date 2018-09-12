@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<!-- Ejemplo usado en el flisol2018 en Loja / autor @reroes -->
+<html>
+<head>
+  <title>Matrimonios</title>
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" >
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+  <br>
+
+  <h2 class="text-center">Matrimonios del Ecuador</h2><br>
+
+  <br>
+  <hr/>
+
+
+  {% if numero == 0 %}
+  <h4>No existen coincidencias</h4>
+  {% endif %}
+  {% if data %}
+  <h2>Listado de coincidencias</h2><br>
+  <h4>Número de coincidencias: {{numero}}</h4>
+  <div>
+      <table class="table"> 
+        <tr>
+          <th>Mes nacimiento</th>
+          <th>Estado Civil</th>
+          <th>Año Nacimiento</th>
+          <th>Provincia de Nacimiento</th>
+          <th>Año de Inscripcion</th>
+          <th>Parroquia de inscripcion</th>
+          <th>Canton de Residencia</th>
+          <th>Peso</th>
+
+        </tr>
+
+        {% for d in data %}
+        <tr>
+          <td>{{d['mes_nac']}}</td>
+          <td>{{d['est_civil']}}</td>
+          <td>{{d['anio_nac']}}</td>
+          <td>{{d['prov_nac']}}</td>
+          <td>{{d['anio_insc']}}</td>
+          <td>{{d['parr_insc']}}</td>
+          <td>{{d['cant_res']}}</td>
+          <td>{{d['peso']}}</td>
+        </tr>
+
+        {% endfor %}
+      </table> 
+  </div>
+  {% endif %}
+  <div>
+    <br>
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+ 
+        {% for message in messages %}
+            {% if "Error" not in message[1]: %}
+                <div class="alert alert-info">
+                <strong>Success! </strong> {{ message[1] }}
+                </div>
+            {% endif %}
+ 
+            {% if "Error" in message[1]: %}
+                <div class="alert alert-warning">
+                {{ message[1] }}
+                </div>
+            {% endif %}
+        {% endfor %}
+            {% endif %}
+        {% endwith %}
+  </div>
+</div>
+</body>
+</html>

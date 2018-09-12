@@ -1,0 +1,737 @@
+# FIFA |Display Name|Country|Last Name|First Name|Shirt Name|DOB|POS|Club|Height|Caps|Goals
+1|Nahuel GUZMAN|Argentina|GUZMÁN|Nahuel Ignacio|GUZMÁN|10.02.1986|GK|Tigres (MEX)|192|6|0
+2|Gabriel MERCADO|Argentina|MERCADO|Gabriel Ivan|MERCADO|18.03.1987|DF|Sevilla FC (ESP)|181|20|3
+3|Nicolas TAGLIAFICO|Argentina|TAGLIAFICO|Nicolás Alejandro|TAGLIAFICO|31.08.1992|DF|Ajax (NED)|169|4|0
+4|Cristian ANSALDI|Argentina|ANSALDI|Cristian Daniel|ANSALDI|20.09.1986|DF|Torino (ITA)|181|5|1
+5|Lucas BIGLIA|Argentina|BIGLIA|Lucas Rodrigo|BIGLIA|30.01.1986|MF|AC Milan (ITA)|175|57|1
+6|Federico FAZIO|Argentina|FAZIO|Federico Julián|FAZIO|17.03.1987|DF|AS Roma (ITA)|199|9|1
+7|Ever BANEGA|Argentina|BANEGA|Ever Maximiliano David|BANEGA|29.06.1988|MF|Sevilla FC (ESP)|175|62|6
+8|Marcos ACUNA|Argentina|ACUÑA|Marcos Javier|ACUÑA|28.10.1991|DF|Sporting CP (POR)|172|10|0
+9|Gonzalo HIGUAIN|Argentina|HIGUAIN|Gonzalo Gerardo|HIGUAÍN|10.12.1987|FW|Juventus (ITA)|184|72|31
+10|Lionel MESSI|Argentina|MESSI|Lionel Andres|MESSI|24.06.1987|FW|FC Barcelona (ESP)|170|124|64
+11|Angel DI MARIA|Argentina|DI MARIA|Angel Fabian|DI MARÍA|14.02.1988|MF|Paris Saint-Germain (FRA)|178|94|19
+12|Franco ARMANI|Argentina|ARMANI|Franco|ARMANI|16.10.1986|GK|River Plate (ARG)|189|0|0
+13|Maximiliano MEZA|Argentina|MEZA|Maximiliano Eduardo|MEZA|15.12.1992|MF|Independiente (ARG)|180|2|0
+14|Javier MASCHERANO|Argentina|MASCHERANO|Javier Alejandro|MASCHERANO|08.06.1984|DF|Hebei Huabei (CHN)|174|143|3
+15|Enzo PEREZ|Argentina|PEREZ|Enzo Nicolas|PÉREZ|22.02.1986|MF|River Plate (ARG)|178|23|1
+16|Marcos ROJO|Argentina|ROJO|Faustino Marcos Alberto|MARCOS ROJO|20.03.1990|DF|Manchester United (ENG)|189|56|2
+17|Nicolas OTAMENDI|Argentina|OTAMENDI|Nicolas Hernan Gonzalo|OTAMENDI|12.02.1988|DF|Manchester City (ENG)|181|54|4
+18|Eduardo SALVIO|Argentina|SALVIO|Eduardo Antonio|SALVIO|13.07.1990|DF|Benfica (POR)|167|9|0
+19|Sergio AGUERO|Argentina|AGÜERO|Sergio Leonel|KUN AGUERO|02.06.1988|FW|Manchester City (ENG)|172|85|37
+20|Giovani LO CELSO|Argentina|LO CELSO|Giovani|LO CELSO|09.04.1996|MF|Paris Saint-Germain (FRA)|177|5|0
+21|Paulo DYBALA|Argentina|DYBALA|Paulo Exequiel|DYBALA|15.11.1993|FW|Juventus (ITA)|177|12|0
+22|Cristian PAVON|Argentina|PAVÓN|Cristian David|PAVÓN|21.01.1996|MF|Boca Juniors (ARG)|169|5|0
+23|Wilfredo CABALLERO|Argentina|CABALLERO|Wilfredo Daniel|CABALLERO|28.09.1981|GK|Chelsea (ENG)|186|3|0
+1|Mathew RYAN|Australia|RYAN|Mathew David|RYAN|08.04.1992|GK|Brighton (ENG)|184|44|0
+2|Milos DEGENEK|Australia|DEGENEK|Milos|DEGENEK|28.04.1994|DF|Yokohama F Marinos (JPN)|187|18|0
+3|James MEREDITH|Australia|MEREDITH|James Gregory|MEREDITH|05.04.1988|DF|Millwall (ENG)|179|2|0
+4|Tim CAHILL|Australia|CAHILL|Timothy Filiga|CAHILL|06.12.1979|FW|Millwall (ENG)|180|106|50
+5|Mark MILLIGAN|Australia|MILLIGAN|Mark Daniel|MILLIGAN|04.08.1985|DF|Al Ahli (KSA)|178|68|6
+6|Matthew JURMAN|Australia|JURMAN|Matthew John|JURMAN|08.12.1989|DF|Suwon Samsung Bluewings (KOR)|190|4|0
+7|Mathew LECKIE|Australia|LECKIE|Mathew Allan|LECKIE|04.02.1991|FW|Hertha BSC (GER)|181|53|8
+8|Massimo LUONGO|Australia|LUONGO|Massimo Corey|LUONGO|25.09.1992|MF|Queens Park Rangers (ENG)|176|36|5
+9|Tomi JURIC|Australia|JURIC|Tomi|JURIC|22.07.1991|FW|FC Luzern (SUI)|190|35|8
+10|Robbie KRUSE|Australia|KRUSE|Robbie Thomas|KRUSE|05.10.1988|FW|VfL Bochum (GER)|180|64|5
+11|Andrew NABBOUT|Australia|NABBOUT|Andrew|NABBOUT|17.12.1992|FW|Urawa Reds (JPN)|178|4|1
+12|Brad JONES|Australia|JONES|Bradley Scott|JONES|19.03.1982|GK|Feyenoord (NED)|193|6|0
+13|Aaron MOOY|Australia|MOOY|Aaron Frank|MOOY|15.09.1990|MF|Huddersfield (ENG)|173|34|5
+14|Jamie MacLAREN|Australia|MACLAREN|Jamie|MACLAREN|29.07.1993|FW|Hibernian (SCO)|178|6|0
+15|Mile JEDINAK|Australia|JEDINAK|Michael John|JEDINAK|03.08.1984|MF|Aston Villa (ENG)|188|76|18
+16|Aziz BEHICH|Australia|BEHICH|Aziz|BEHICH|16.12.1990|DF|Bursaspor (TUR)|170|23|2
+17|Daniel ARZANI|Australia|ARZANI|Daniel|ARZANI|04.01.1999|FW|Melbourne City Football Club (AUS)|171|2|1
+18|Danny VUKOVIC|Australia|VUKOVIC|Daniel|VUKOVIC|27.03.1985|GK|Racing Genk (BEL)|187|1|0
+19|Joshua RISDON|Australia|RISDON|Joshua Robert|RISDON|27.07.1992|DF|WS Wanderers FC (AUS)|169|8|0
+20|Trent SAINSBURY|Australia|SAINSBURY|Trent Lucas|SAINSBURY|05.01.1992|DF|Grasshoppers (SUI)|183|35|3
+21|Dimitrios PETRATOS|Australia|PETRATOS|Dimitrios|PETRATOS|10.11.1992|FW|Newcastle Jets (AUS)|176|2|0
+22|Jackson IRVINE|Australia|IRVINE|Jackson Alexander|IRVINE|07.03.1993|MF|Hull City (ENG)|180|19|2
+23|Tom ROGIC|Australia|ROGIC|Tomas Petar|ROGIC|16.12.1992|MF|Celtic (SCO)|189|37|7
+1|Thibaut COURTOIS|Belgium|COURTOIS|Thibaut Nicolas|COURTOIS|11.05.1992|GK|Chelsea (ENG)|199|58|0
+2|Toby ALDERWEIRELD|Belgium|ALDERWEIRELD|Toby Albertine|ALDERWEIRELD|02.03.1989|DF|Tottenham Hotspur (ENG)|186|77|3
+3|Thomas VERMAELEN|Belgium|VERMAELEN|Thomas|VERMAELEN|14.11.1985|DF|FC Barcelona (ESP)|183|66|1
+4|Vincent KOMPANY|Belgium|KOMPANY|Vincent Jean|KOMPANY|10.04.1986|DF|Manchester City (ENG)|190|77|4
+5|Jan VERTONGHEN|Belgium|VERTONGHEN|Jan Bert|VERTONGHEN|24.04.1987|DF|Tottenham Hotspur (ENG)|189|102|8
+6|Axel WITSEL|Belgium|WITSEL|Axel Laurent|WITSEL|12.01.1989|MF|Tianjin Quanjian Football Club (CHN)|186|90|9
+7|Kevin DE BRUYNE|Belgium|DE BRUYNE|Kevin|DE BRUYNE|28.06.1991|MF|Manchester City (ENG)|181|62|14
+8|Marouane FELLAINI|Belgium|FELLAINI-BAKKIOUI|Marouane|FELLAINI|22.11.1987|MF|Manchester United (ENG)|194|82|17
+9|Romelu LUKAKU|Belgium|LUKAKU BOLINGOLI|Romelu|R. LUKAKU|13.05.1993|FW|Manchester United (ENG)|190|69|36
+10|Eden HAZARD|Belgium|HAZARD|Eden Michael|E. HAZARD|07.01.1991|FW|Chelsea (ENG)|173|86|22
+11|Yannick CARRASCO|Belgium|FERREIRA CARRASCO|Yannick|CARRASCO|04.09.1993|MF|Dalian Yifang Football Club (CHN)|180|26|5
+12|Simon MIGNOLET|Belgium|MIGNOLET|Simon Luc|MIGNOLET|06.03.1988|GK|Liverpool (ENG)|193|21|0
+13|Koen CASTEELS|Belgium|CASTEELS|Koen|CASTEELS|25.06.1992|GK|VfL Wolfsburg (GER)|197|0|0
+14|Dries MERTENS|Belgium|MERTENS|Dries|MERTENS|06.05.1987|FW|SSC Napoli (ITA)|169|69|14
+15|Thomas MEUNIER|Belgium|MEUNIER|Thomas|MEUNIER|12.09.1991|DF|Paris Saint-Germain (FRA)|190|25|5
+16|Thorgan HAZARD|Belgium|HAZARD|Thorgan Ganael Francis|T. HAZARD|29.03.1993|MF|Borussia Moenchengladbach (GER)|174|11|1
+17|Youri TIELEMANS|Belgium|TIELEMANS|Youri|TIELEMANS|07.05.1997|MF|AS Monaco (FRA)|176|9|0
+18|Adnan JANUZAJ|Belgium|JANUZAJ|Adnan|JANUZAJ|05.02.1995|FW|Real Sociedad (ESP)|180|8|0
+19|Moussa DEMBELE|Belgium|DEMBELE|Moussa Sidi Yaya|DEMBELE|16.07.1987|MF|Tottenham Hotspur (ENG)|185|76|5
+20|Dedryck BOYATA|Belgium|BOYATA|Dedryck Anga|BOYATA|28.11.1990|DF|Celtic (SCO)|188|7|0
+21|Michy BATSHUAYI|Belgium|BATSHUAYI TUNGA|Michy|BATSHUAYI|02.10.1993|FW|Borussia Dortmund (GER)|185|16|7
+22|Nacer CHADLI|Belgium|CHADLI|Nacer|CHADLI|02.08.1989|MF|West Bromwich Albion FC (ENG)|187|45|5
+23|Leander DENDONCKER|Belgium|DENDONCKER|Leander|DENDONCKER|15.04.1995|DF|Anderlecht (BEL)|188|5|0
+1|ALISSON|Brazil|BECKER|Alisson Ramses|A. BECKER|02.10.1992|GK|AS Roma (ITA)|193|26|0
+2|THIAGO SILVA|Brazil|EMILIANO DA SILVA|Thiago|T. SILVA|22.09.1984|DF|Paris Saint-Germain (FRA)|183|71|5
+3|MIRANDA|Brazil|MIRANDA DE SOUZA FILHO|Joao|MIRANDA|07.09.1984|DF|Internazionale (ITA)|186|47|2
+4|PEDRO GEROMEL|Brazil|TONON GEROMEL|Pedro|GEROMEL|21.09.1985|DF|Grêmio (BRA)|190|2|0
+5|CASEMIRO|Brazil|CASIMIRO|Carlos Henrique|CASEMIRO|23.02.1992|MF|Real Madrid (ESP)|185|24|0
+6|FILIPE LUIS|Brazil|KASMIRSKI|Filipe Luis|FILIPE LUIS|09.08.1985|DF|Atlético Madrid (ESP)|182|33|2
+7|DOUGLAS COSTA|Brazil|COSTA DE SOUZA|Douglas|D. COSTA|14.09.1990|FW|Juventus (ITA)|182|25|3
+8|RENATO AUGUSTO|Brazil|SOARES DE OLIVEIRA AUGUSTO|Renato|R. AUGUSTO|08.02.1988|MF|Beijing Guoan (CHN)|186|28|5
+9|GABRIEL JESUS|Brazil|DE JESUS|Gabriel Fernando|G. JESUS|03.04.1997|FW|Manchester City (ENG)|175|17|10
+10|NEYMAR|Brazil|DA SILVA SANTOS JUNIOR|Neymar|NEYMAR JR|05.02.1992|FW|Paris Saint-Germain (FRA)|175|85|55
+11|PHILIPPE COUTINHO|Brazil|COUTINHO CORREIA|Philippe|P. COUTINHO|12.06.1992|MF|FC Barcelona (ESP)|172|36|10
+12|MARCELO|Brazil|VIEIRA DA SILVA JUNIOR|Marcelo|MARCELO|12.05.1988|DF|Real Madrid (ESP)|174|55|6
+13|MARQUINHOS|Brazil|AOAS CORREA|Marcos|MARQUINHOS|14.05.1994|DF|Paris Saint-Germain (FRA)|183|26|0
+14|DANILO|Brazil|DA SILVA|Danilo Luiz|DANILO|15.07.1991|DF|Manchester City (ENG)|184|18|0
+15|PAULINHO|Brazil|BEZERRA MACIEL JÚNIOR|José Paulo|PAULINHO|25.07.1988|MF|FC Barcelona (ESP)|181|50|12
+16|CASSIO|Brazil|RAMOS|Cassio|CASSIO|06.06.1987|GK|SC Corinthians (BRA)|195|1|0
+17|FERNANDINHO|Brazil|ROZA|Fernando Luiz|FERNANDINHO|04.05.1985|MF|Manchester City (ENG)|179|44|2
+18|FRED|Brazil|RODRIGUES DE PAULA SANTOS|Frederico|FRED|05.03.1993|MF|Shakhtar Donetsk (UKR)|169|8|0
+19|WILLIAN|Brazil|BORGES DA SILVA|Willian|WILLIAN|09.08.1988|MF|Chelsea (ENG)|175|57|8
+20|ROBERTO FIRMINO|Brazil|BARBOSA DE OLIVEIRA|Roberto Firmino|FIRMINO|02.10.1991|FW|Liverpool (ENG)|181|21|6
+21|TAISON|Brazil|BARCELLOS FREDA|Taison|TAISON|13.01.1988|FW|Shakhtar Donetsk (UKR)|172|8|1
+22|FAGNER|Brazil|CONSERVA LEMOS|Fagner|FAGNER|11.06.1989|DF|SC Corinthians (BRA)|168|4|0
+23|EDERSON|Brazil|SANTANA DE MORAES|Ederson|EDERSON|17.08.1993|GK|Manchester City (ENG)|188|1|0
+1|David OSPINA|Colombia|OSPINA RAMIREZ|David|OSPINA|31.08.1988|GK|Arsenal (ENG)|183|83|0
+2|Cristian ZAPATA|Colombia|ZAPATA VALENCIA|Cristian Eduardo|C. ZAPATA|30.09.1986|DF|AC Milan (ITA)|187|52|2
+3|Oscar MURILLO|Colombia|MURILLO MURILLO|Oscar Fabian|O. MURILLO|18.04.1988|DF|CF Pachuca (MEX)|184|13|0
+4|Santiago ARIAS|Colombia|ARIAS NARANJO|Santiago|ARIAS|13.01.1992|DF|PSV (NED)|177|41|0
+5|Wilmar BARRIOS|Colombia|BARRIOS TERAN|Wilmar Enrique|BARRIOS|16.10.1993|MF|Boca Juniors (ARG)|178|10|0
+6|Carlos SANCHEZ|Colombia|SANCHEZ MORENO|Carlos Alberto|C. SANCHEZ|06.02.1986|MF|RCD Espanyol (ESP)|182|80|0
+7|Carlos BACCA|Colombia|BACCA AHUMADA|Carlos Arturo|BACCA|08.09.1986|FW|Villarreal CF (ESP)|181|45|14
+8|Abel AGUILAR|Colombia|AGUILAR TAPIAS|Abel Enrique|AGUILAR T.|06.01.1985|MF|Cali (COL)|185|69|8
+9|Radamel FALCAO|Colombia|GARCIA ZARATE|Radamel Falcao|FALCAO|10.02.1986|FW|AS Monaco (FRA)|177|65|29
+10|James RODRIGUEZ|Colombia|RODRIGUEZ RUBIO|James David|JAMES|12.07.1991|MF|Bayern München (GER)|180|63|21
+11|Juan CUADRADO|Colombia|CUADRADO BELLO|Juan Guillermo|CUADRADO|26.05.1988|MF|Juventus (ITA)|179|69|7
+12|Camilo VARGAS|Colombia|VARGAS GIL|Camilo Andres|C. VARGAS|09.03.1989|GK|Cali (COL)|185|5|0
+13|Yerry MINA|Colombia|MINA GONZALEZ|Yerry Fernando|Y. MINA|23.09.1994|DF|FC Barcelona (ESP)|194|12|3
+14|Luis MURIEL|Colombia|MURIEL FRUTO|Luis Fernando|L. MURIEL|16.04.1991|FW|Sevilla FC (ESP)|178|18|2
+15|Mateus URIBE|Colombia|URIBE VILLA|Andres Mateus|M. URIBE|21.03.1991|MF|America (MEX)|182|8|0
+16|Jefferson LERMA|Colombia|LERMA SOLIS|Jefferson Andrés|J. LERMA|25.10.1994|MF|Levante UD (ESP)|179|5|0
+17|Johan MOJICA|Colombia|MOJICA PALACIO|Johan Andrés|J. MOJICA|21.08.1992|DF|Girona Futbol Club (ESP)|185|4|1
+18|Farid DIAZ|Colombia|DIAZ RHENALS|Farid Alfonso|F. DIAZ|20.07.1983|DF|Olimpia (PAR)|170|13|0
+19|Miguel BORJA|Colombia|BORJA HERNANDEZ|Miguel Angel|M. BORJA|26.01.1993|FW|Palmeiras (BRA)|183|7|2
+20|Juan QUINTERO|Colombia|QUINTERO PANIAGUA|Juan Fernando|J. QUINTERO|18.01.1993|MF|River Plate (ARG)|169|15|2
+21|Jose IZQUIERDO|Colombia|IZQUIERDO MENA|José Heriberto|IZQUIERDO|07.07.1992|FW|Brighton (ENG)|171|5|1
+22|Jose CUADRADO|Colombia|CUADRADO ROMERO|José Fernando|J.F. CUADRADO|01.06.1985|GK|Once Caldas (COL)|180|1|0
+23|Davinson SANCHEZ|Colombia|SANCHEZ MINA|Davinson|D. SANCHEZ|12.06.1996|DF|Tottenham Hotspur (ENG)|187|9|0
+1|Keylor NAVAS|Costa Rica|NAVAS GAMBOA|Keilor Antonio|K. NAVAS|15.12.1986|GK|Real Madrid (ESP)|185|81|0
+2|Johnny ACOSTA|Costa Rica|ACOSTA ZAMORA|Jhonny|J. ACOSTA|21.07.1983|DF|Águilas Doradas Rionegro (COL)|176|66|2
+3|Giancarlo GONZALEZ|Costa Rica|GONZALEZ CASTRO|Giancarlo|G. GONZALEZ|08.02.1988|DF|Bologna (ITA)|186|68|2
+4|Ian SMITH|Costa Rica|SMITH QUIROS|Ian Rey|I. SMITH|06.03.1998|DF|Norrkoping (SWE)|177|4|0
+5|Celso BORGES|Costa Rica|BORGES MORA|Celso|C. BORGES|27.05.1988|MF|Deportivo La Coruña (ESP)|187|111|18
+6|Oscar DUARTE|Costa Rica|DUARTE GAITAN|Oscar Esau|O. DUARTE|03.06.1989|DF|RCD Espanyol (ESP)|186|36|2
+7|Christian BOLANOS|Costa Rica|BOLAÑOS NAVARRO|Christian|C. BOLAÑOS|17.05.1984|MF|Saprissa (CRC)|178|82|7
+8|Bryan OVIEDO|Costa Rica|OVIEDO JIMENEZ|Bryan Josue|B. OVIEDO|18.02.1990|DF|Sunderland (ENG)|172|42|1
+9|Daniel COLINDRES|Costa Rica|COLINDRES SOLERA|Daniel|D. COLINDRES|10.01.1985|MF|Saprissa (CRC)|180|11|0
+10|Bryan RUIZ|Costa Rica|RUIZ GONZALEZ|Bryan Jafet|BRYAN|18.08.1985|MF|Sporting CP (POR)|187|109|24
+11|Johan VENEGAS|Costa Rica|VENEGAS ULLOA|Johan Alberto|J. VENEGAS|27.11.1988|FW|Saprissa (CRC)|183|47|10
+12|Joel CAMPBELL|Costa Rica|CAMPBELL SAMUELS|Joel Nathaniel|J. CAMPBELL|26.06.1992|FW|Real Betis (ESP)|178|77|15
+13|Rodney WALLACE|Costa Rica|WALLACE BURNS|Rodney|R. WALLACE|17.06.1988|MF|New York City Football Club (USA)|180|28|4
+14|Randall AZOFEIFA|Costa Rica|AZOFEIFA CORRALES|Randall|R. AZOFEIFA|30.12.1984|MF|Herediano (CRC)|182|59|3
+15|Francisco CALVO|Costa Rica|CALVO QUESADA|Francisco Javier|F. CALVO|08.07.1992|DF|Minnesota (USA)|180|36|4
+16|Cristian GAMBOA|Costa Rica|GAMBOA LUNA|Cristian Esteban|C. GAMBOA|24.10.1989|DF|Celtic (SCO)|175|68|3
+17|Yeltsin TEJEDA|Costa Rica|TEJEDA VALVERDE|Yeltsin Ignacio|Y. TEJEDA|17.03.1992|MF|Lausanne (SUI)|179|49|0
+18|Patrick PEMBERTON|Costa Rica|PEMBERTON BERNARD|Patrick Alberto|P. PEMBERTON|24.04.1982|GK|Alajuelense (CRC)|178|39|0
+19|Kendall WASTON|Costa Rica|WASTON MANLEY|Kendall Jamaal|K. WASTON|01.01.1988|DF|Vancouver Whitecaps (CAN)|196|25|2
+20|David GUZMAN|Costa Rica|GUZMAN PEREZ|David|D. GUZMAN|18.02.1990|MF|Portland Timbers (USA)|176|45|0
+21|Marcos URENA|Costa Rica|UREÑA PORRAS|Marcos Danilo|M. UREÑA|05.03.1990|FW|Los Angeles Football Club (USA)|181|62|14
+22|Ronald MATARRITA|Costa Rica|MATARRITA ULATE|Ronald Alberto|R. MATARRITA|09.07.1994|DF|New York City Football Club (USA)|175|23|2
+23|Leonel MOREIRA|Costa Rica|MOREIRA LEDEZMA|Leonel Gerardo|L. MOREIRA|02.04.1990|GK|Herediano (CRC)|179|9|0
+1|Dominik LIVAKOVIC|Croatia|LIVAKOVIĆ|Dominik|LIVAKOVIĆ|09.01.1995|GK|Dinamo Zagreb (CRO)|188|1|0
+2|Sime VRSALJKO|Croatia|VRSALJKO|Šime|VRSALJKO|10.01.1992|DF|Atlético Madrid (ESP)|181|35|0
+3|Ivan STRINIC|Croatia|STRINIĆ|Ivan|STRINIĆ|17.07.1987|DF|Sampdoria (ITA)|186|43|0
+4|Ivan PERISIC|Croatia|PERIŠIĆ|Ivan|PERIŠIĆ|02.02.1989|FW|Internazionale (ITA)|186|66|18
+5|Vedran CORLUKA|Croatia|ĆORLUKA|Vedran|ĆORLUKA|05.02.1986|DF|Lokomotiv Moskva (RUS)|192|99|4
+6|Dejan LOVREN|Croatia|LOVREN|Dejan|LOVREN|05.07.1989|DF|Liverpool (ENG)|188|39|2
+7|Ivan RAKITIC|Croatia|RAKITIĆ|Ivan|RAKITIĆ|10.03.1988|MF|FC Barcelona (ESP)|184|92|14
+8|Mateo KOVACIC|Croatia|KOVAČIĆ|Mateo|KOVAČIĆ|06.05.1994|MF|Real Madrid (ESP)|178|41|1
+9|Andrej KRAMARIC|Croatia|KRAMARIĆ|Andrej|KRAMARIĆ|19.06.1991|FW|1899 Hoffenheim (GER)|177|31|9
+10|Luka MODRIC|Croatia|MODRIĆ|Luka|MODRIĆ|09.09.1985|MF|Real Madrid (ESP)|172|106|12
+11|Marcelo BROZOVIC|Croatia|BROZOVIĆ|Marcelo|BROZOVIĆ|16.11.1992|MF|Internazionale (ITA)|181|35|6
+12|Lovre KALINIC|Croatia|KALINIĆ|Lovre|L. KALINIĆ|03.04.1990|GK|AA Gent (BEL)|201|11|0
+13|Tin JEDVAJ|Croatia|JEDVAJ|Tin|JEDVAJ|28.11.1995|DF|Bayer Leverkusen (GER)|184|12|0
+14|Filip BRADARIC|Croatia|BRADARIĆ|Filip|BRADARIĆ|11.01.1992|MF|NK Rijeka (CRO)|186|4|0
+15|Duje CALETA-CAR|Croatia|ĆALETA-CAR|Duje|ĆALETA-CAR|17.09.1996|DF|Red Bull Salzburg (AUT)|192|1|0
+16|Nikola KALINIC|Croatia|KALINIĆ|Nikola|N. KALINIĆ|05.01.1988|FW|AC Milan (ITA)|187|42|15
+17|Mario MANDZUKIC|Croatia|MANDŽUKIĆ|Mario|MANDŽUKIĆ|21.05.1986|FW|Juventus (ITA)|190|83|30
+18|Ante REBIC|Croatia|REBIĆ|Ante|REBIĆ|21.09.1993|FW|Eintracht Frankfurt (GER)|185|16|1
+19|Milan BADELJ|Croatia|BADELJ|Milan|BADELJ|25.02.1989|MF|Fiorentina (ITA)|186|38|1
+20|Marko PJACA|Croatia|PJACA|Marko|PJACA|06.05.1995|FW|Schalke 04 (GER)|186|16|1
+21|Domagoj VIDA|Croatia|VIDA|Domagoj|VIDA|29.04.1989|DF|Besiktas (TUR)|184|59|2
+22|Josip PIVARIC|Croatia|PIVARIĆ|Josip|PIVARIĆ|30.01.1989|DF|Dynamo Kyiv (UKR)|176|19|0
+23|Danijel SUBASIC|Croatia|SUBAŠIĆ|Danijel|SUBAŠIĆ|27.10.1984|GK|AS Monaco (FRA)|191|38|0
+1|Kasper SCHMEICHEL|Denmark|SCHMEICHEL|Kasper Peter|SCHMEICHEL|05.11.1986|GK|Leicester (ENG)|190|35|0
+2|Michael KROHN-DEHLI|Denmark|KROHN-DEHLI|Michael|KROHN-DEHLI|06.06.1983|MF|Deportivo La Coruña (ESP)|171|58|6
+3|Jannik VESTERGAARD|Denmark|VESTERGAARD|Jannik|VESTERGAARD|03.08.1992|DF|Borussia Moenchengladbach (GER)|200|16|1
+4|Simon KJAER|Denmark|KJAER|Simon Thorup|KJÆR|26.03.1989|DF|Sevilla FC (ESP)|191|75|3
+5|Jonas KNUDSEN|Denmark|KNUDSEN|Jonas Hjort|KNUDSEN|16.09.1992|DF|Ipswich Town (ENG)|187|3|0
+6|Andreas CHRISTENSEN|Denmark|CHRISTENSEN|Andreas Bodtker|CHRISTENSEN|10.04.1996|DF|Chelsea (ENG)|192|16|1
+7|William KVIST|Denmark|KVIST|William Vitved|KVIST|24.02.1985|MF|FC København (DEN)|185|80|2
+8|Thomas DELANEY|Denmark|DELANEY|Thomas Joseph|DELANEY|03.09.1991|MF|Werder Bremen (GER)|180|27|4
+9|Nicolai JORGENSEN|Denmark|JORGENSEN|Nicolai Mick|N. JØRGENSEN|15.01.1991|FW|Feyenoord (NED)|194|31|8
+10|Christian ERIKSEN|Denmark|ERIKSEN|Christian Dannemann|ERIKSEN|14.02.1992|MF|Tottenham Hotspur (ENG)|181|78|22
+11|Martin BRAITHWAITE|Denmark|BRAITHWAITE|Martin Christensen|BRAITHWAITE|05.06.1991|FW|Girondins Bordeaux (FRA)|180|20|1
+12|Kasper DOLBERG|Denmark|RASMUSSEN|Kasper Dolberg|DOLBERG|06.10.1997|FW|Ajax (NED)|187|6|1
+13|Mathias JORGENSEN|Denmark|JORGENSEN|Mathias Jattah-Njie|M. JØRGENSEN|23.04.1990|DF|Huddersfield (ENG)|191|12|0
+14|Henrik DALSGAARD|Denmark|DALSGAARD|Henrik|DALSGAARD|27.07.1989|DF|Brentford (ENG)|190|11|0
+15|Viktor FISCHER|Denmark|FISCHER|Viktor Gorridsen|FISCHER|09.06.1994|FW|FC København (DEN)|181|19|3
+16|Jonas LOSSL|Denmark|LÖSSL|Jonas Bybjerg|LÖSSL|01.02.1989|GK|Huddersfield (ENG)|195|1|0
+17|Jens Stryger LARSEN|Denmark|LARSEN|Jens Stryger|STRYGER|21.02.1991|DF|Udinese (ITA)|182|13|1
+18|Lukas LERAGER|Denmark|LERAGER|Lukas Reiff|LERAGER|12.07.1993|MF|Girondins Bordeaux (FRA)|186|4|0
+19|Lasse SCHONE|Denmark|SCHÖNE|Lasse|SCHÖNE|27.05.1986|MF|Ajax (NED)|178|36|3
+20|Yussuf Yurary POULSEN|Denmark|POULSEN|Yussuf Yurary|YURARY|15.06.1994|FW|RasenBallsport Leipzig (GER)|193|28|4
+21|Andreas CORNELIUS|Denmark|CORNELIUS|Andreas Evald|CORNELIUS|16.03.1993|FW|Atalanta Bergamo (ITA)|195|18|4
+22|Frederik RONNOW|Denmark|RØNNOW|Frederik Riis|RØNNOW|04.08.1992|GK|Brøndby IF (DEN)|190|6|0
+23|Pione SISTO|Denmark|EMIRMIJA|Pione Sisto Ifolo|SISTO|04.02.1995|FW|Celta (ESP)|173|14|1
+1|ESSAM ELHADARY|Egypt|KAMAL TAWFIK EL HADARY|Essam|ELHADARY|15.01.1973|GK|Al Taawoun Football Club (KSA)|190|158|0
+2|ALI GABR|Egypt|GABR|Ali|ALI GABR|01.01.1989|DF|West Bromwich Albion FC (ENG)|191|22|1
+3|AHMED ELMOHAMADY|Egypt|ABDELFATTAH|Ahmed Elmohamady|ELMOHAMADY|09.09.1987|DF|Aston Villa (ENG)|183|84|2
+4|OMAR GABER|Egypt|GABER|Omar|O. GABER|30.01.1992|MF|Los Angeles Football Club (USA)|175|24|0
+5|SAM MORSY|Egypt|SAYED MORSY|Samy|MORSY|10.09.1991|MF|Wigan Athletic (ENG)|173|5|0
+6|AHMED HEGAZY|Egypt|HEGAZY|Ahmed Elsayed|A. HEGAZY|25.01.1991|DF|West Bromwich Albion FC (ENG)|194|45|1
+7|AHMED FATHI|Egypt|IBRAHIM|Ahmed Fathy AbdelmonemAhmed|A. FATHI|10.11.1984|DF|Al Ahly Cairo (EGY)|176|128|3
+8|TAREK HAMED|Egypt|HAMED|Tarek|TAREK HAMED|24.10.1988|MF|Zamalek (EGY)|169|23|0
+9|MARWAN MOHSEN|Egypt|GAMALELDIN MAHMOUD FAHMY|Marwan Mohsen|MARWAN|26.02.1989|FW|Al Ahly Cairo (EGY)|185|22|4
+10|MOHAMED SALAH|Egypt|GHALY|Mohamed Salah|M SALAH|15.06.1992|FW|Liverpool (ENG)|175|56|35
+11|KAHRABA|Egypt|SOLIMAN|Mahmoud Abdelmoneim|M. KAHRABA|13.04.1994|FW|Al Ittihad (Jeddah) (KSA)|182|22|3
+12|AYMAN ASHRAF|Egypt|ELSEMBESKANY|Ayman Ashraf|A. ASHRAF|09.04.1991|DF|Al Ahly Cairo (EGY)|176|3|1
+13|MOHAMED ABDELSHAFY|Egypt|ABOUZID|Mohamed Abdelshafy Said|ABDELSHAFY|01.07.1985|DF|Al Fath (KSA)|171|52|2
+14|RAMADAN SOBHY|Egypt|AHMED|Ramadan Sobhy|RAMADAN|23.01.1997|FW|Stoke (ENG)|183|25|1
+15|MAHMOUD HAMDY|Egypt|ATTIA|Mahmoud Hamdy|M. HAMDY|01.06.1995|DF|Zamalek (EGY)|173|1|0
+16|SHERIF EKRAMY|Egypt|AHMED|Sherif Ekramy Ahmed|EKRAMY|10.07.1983|GK|Al Ahly Cairo (EGY)|193|23|0
+17|MOHAMED ELNENY|Egypt|ELNENY|Mohamed Nasser Elsayed|M. ELNENY|11.07.1992|MF|Arsenal (ENG)|181|61|5
+18|SHIKABALA|Egypt|FADLALA|Mahmoud AbdelrazekHassan|SHIKABALA|05.03.1986|FW|Al-Raed Sports Club (KSA)|183|32|2
+19|ABDALLA SAID|Egypt|BEKHIT|Abdalla Mahmoud Said|ABDALLA|13.07.1985|MF|Kuopion Palloseura (FIN)|176|38|6
+20|SAMIR SAAD|Egypt|ALI|Saadeldin Samir Saad|S. SAMIR|01.04.1989|DF|Al Masry (EGY)|183|11|0
+21|TREZEGUET|Egypt|HASSAN|Mahmoud Ahmed Ibrahim|M. TREZEGUET|01.10.1994|MF|Kasimpasa SK (TUR)|181|26|2
+22|AMR WARDA|Egypt|WARDA|Amr Medhat|WARDA|17.09.1993|FW|Atromitos FC (GRE)|179|17|0
+23|MOHAMED ELSHENAWY|Egypt|ELSHENAWY GOMAA|Mohamed ElsayedMohamed|M. ELSHENAWY|18.12.1988|GK|Al Ahly Cairo (EGY)|191|3|0
+1|Jordan PICKFORD|England|PICKFORD|Jordan Lee|PICKFORD|07.03.1994|GK|Everton (ENG)|185|3|0
+2|Kyle WALKER|England|WALKER|Kyle Andrew|WALKER|28.05.1990|DF|Manchester City (ENG)|178|35|0
+3|Danny ROSE|England|ROSE|Daniel Lee|ROSE|02.07.1990|DF|Tottenham Hotspur (ENG)|173|18|0
+4|Eric DIER|England|DIER|Eric Jeremy Edgar|DIER|15.01.1994|MF|Tottenham Hotspur (ENG)|188|26|3
+5|John STONES|England|STONES|John|STONES|28.05.1994|DF|Manchester City (ENG)|188|26|0
+6|Harry MAGUIRE|England|MAGUIRE|Jacob Harry|MAGUIRE|05.03.1993|DF|Leicester (ENG)|193|5|0
+7|Jesse LINGARD|England|LINGARD|Jesse Ellis|LINGARD|15.12.1992|MF|Manchester United (ENG)|175|12|1
+8|Jordan HENDERSON|England|HENDERSON|Jordan Brian|HENDERSON|17.06.1990|MF|Liverpool (ENG)|183|39|0
+9|Harry KANE|England|KANE|Harry Edward|KANE|28.07.1993|FW|Tottenham Hotspur (ENG)|188|24|13
+10|Raheem STERLING|England|STERLING|Raheem|STERLING|08.12.1994|FW|Manchester City (ENG)|170|38|2
+11|Jamie VARDY|England|VARDY|Jamie Richard|VARDY|11.01.1987|FW|Leicester (ENG)|178|22|7
+12|Kieran TRIPPIER|England|TRIPPIER|Kieran John|TRIPPIER|19.09.1990|DF|Tottenham Hotspur (ENG)|178|7|0
+13|Jack BUTLAND|England|BUTLAND|Jack|BUTLAND|10.03.1993|GK|Stoke (ENG)|196|8|0
+14|Danny WELBECK|England|WELBECK|Daniel|WELBECK|26.11.1990|FW|Arsenal (ENG)|184|39|16
+15|Gary CAHILL|England|CAHILL|Gary James|CAHILL|19.12.1985|DF|Chelsea (ENG)|191|60|5
+16|Phil JONES|England|JONES|Philip Anthony|JONES|21.02.1992|DF|Manchester United (ENG)|182|25|0
+17|Fabian DELPH|England|DELPH|Fabian|DELPH|21.11.1989|DF|Manchester City (ENG)|174|11|0
+18|Ashley YOUNG|England|YOUNG|Ashley Simon|YOUNG|09.07.1985|DF|Manchester United (ENG)|175|34|7
+19|Marcus RASHFORD|England|RASHFORD|Marcus|RASHFORD|31.10.1997|FW|Manchester United (ENG)|180|19|3
+20|Dele ALLI|England|ALLI|Bamidele Jermaine|DELE|11.04.1996|MF|Tottenham Hotspur (ENG)|188|25|2
+21|Ruben LOFTUS-CHEEK|England|LOFTUS-CHEEK|Ruben Ira|LOFTUS-CHEEK|23.01.1996|MF|Chelsea (ENG)|190|4|0
+22|Trent ALEXANDER-ARNOLD|England|ALEXANDER-ARNOLD|Trent John|ALEXANDER-ARNOLD|07.10.1998|DF|Liverpool (ENG)|175|1|0
+23|Nick POPE|England|POPE|Nicholas David|POPE|19.04.1992|GK|Burnley (ENG)|191|1|0
+1|Hugo LLORIS|France|LLORIS|Hugo|LLORIS|26.12.1986|GK|Tottenham Hotspur (ENG)|188|98|0
+2|Benjamin PAVARD|France|PAVARD|Benjamin|PAVARD|28.03.1996|DF|VfB Stuttgart (GER)|186|6|0
+3|Presnel KIMPEMBE|France|KIMPEMBE|Presnel|KIMPEMBE|13.08.1995|DF|Paris Saint-Germain (FRA)|182|2|0
+4|Raphael VARANE|France|VARANE|Raphaël Xavier|VARANE|25.04.1993|DF|Real Madrid (ESP)|191|42|2
+5|Samuel UMTITI|France|UMTITI|Samuel|UMTITI|14.11.1993|DF|FC Barcelona (ESP)|183|19|2
+6|Paul POGBA|France|POGBA|Paul Labile|POGBA|15.03.1993|MF|Manchester United (ENG)|191|54|9
+7|Antoine GRIEZMANN|France|GRIEZMANN|Antoine|GRIEZMANN|21.03.1991|FW|Atlético Madrid (ESP)|174|54|20
+8|Thomas LEMAR|France|LEMAR|Thomas|LEMAR|12.11.1995|FW|AS Monaco (FRA)|172|12|3
+9|Olivier GIROUD|France|GIROUD|Olivier|GIROUD|30.09.1986|FW|Chelsea (ENG)|193|74|31
+10|Kylian MBAPPE|France|MBAPPE LOTTIN|Kylian|MBAPPE|20.12.1998|FW|Paris Saint-Germain (FRA)|178|15|4
+11|Ousmane DEMBELE|France|DEMBELE|Ousmane|DEMBELE|15.05.1997|FW|FC Barcelona (ESP)|178|12|2
+12|Corentin TOLISSO|France|TOLISSO|Corentin|TOLISSO|03.08.1994|MF|Bayern München (GER)|180|9|0
+13|Ngolo KANTE|France|KANTE|N'golo|KANTE|29.03.1991|MF|Chelsea (ENG)|168|24|1
+14|Blaise MATUIDI|France|MATUIDI|Blaise|MATUIDI|09.04.1987|MF|Juventus (ITA)|180|67|9
+15|Steven NZONZI|France|NZONZI|Steven|NZONZI|15.12.1988|MF|Sevilla FC (ESP)|197|4|0
+16|Steve MANDANDA|France|MANDANDA MPIDI|Steve|MANDANDA|28.03.1985|GK|Olympique Marseille (FRA)|187|27|0
+17|Adil RAMI|France|RAMI|Adil|RAMI|27.12.1985|DF|Olympique Marseille (FRA)|190|35|1
+18|Nabil FEKIR|France|FEKIR|Nabil|FEKIR|18.07.1993|FW|Olympique Lyon (FRA)|173|12|2
+19|Djibril SIDIBE|France|SIDIBE|Djibril|SIDIBE|29.07.1992|DF|AS Monaco (FRA)|184|17|1
+20|Florian THAUVIN|France|THAUVIN|Florian|THAUVIN|26.01.1993|FW|Olympique Marseille (FRA)|180|4|0
+21|Lucas HERNANDEZ|France|HERNANDEZ|Lucas|HERNANDEZ|14.02.1996|DF|Atlético Madrid (ESP)|183|5|0
+22|Benjamin MENDY|France|MENDY|Benjamin|MENDY|17.07.1994|DF|Manchester City (ENG)|183|7|0
+23|Alphonse AREOLA|France|AREOLA|Alphonse|AREOLA|27.02.1993|GK|Paris Saint-Germain (FRA)|195|0|0
+1|Manuel NEUER|Germany|NEUER|Manuel Peter|NEUER|27.03.1986|GK|Bayern München (GER)|193|76|0
+2|Marvin PLATTENHARDT|Germany|PLATTENHARDT|Marvin|PLATTENHARDT|26.01.1992|DF|Hertha BSC (GER)|181|6|0
+3|Jonas HECTOR|Germany|HECTOR|Jonas Armin|HECTOR|27.05.1990|DF|1. FC Köln (GER)|185|38|3
+4|Matthias GINTER|Germany|GINTER|Matthias Lukas|GINTER|19.01.1994|DF|Borussia Moenchengladbach (GER)|189|18|0
+5|Mats HUMMELS|Germany|HUMMELS|Mats Julian|HUMMELS|16.12.1988|DF|Bayern München (GER)|192|64|5
+6|Sami KHEDIRA|Germany|KHEDIRA|Sami|KHEDIRA|04.04.1987|MF|Juventus (ITA)|189|75|7
+7|Julian DRAXLER|Germany|DRAXLER|Julian|DRAXLER|20.09.1993|MF|Paris Saint-Germain (FRA)|185|44|6
+8|Toni KROOS|Germany|KROOS|Toni|KROOS|04.01.1990|MF|Real Madrid (ESP)|182|83|12
+9|Timo WERNER|Germany|WERNER|Timo|WERNER|06.03.1996|FW|RasenBallsport Leipzig (GER)|181|14|8
+10|Mesut OEZIL|Germany|ÖZIL|Mesut|ÖZIL|15.10.1988|MF|Arsenal (ENG)|180|90|23
+11|Marco REUS|Germany|REUS|Marco|REUS|31.05.1989|FW|Borussia Dortmund (GER)|180|31|9
+12|Kevin TRAPP|Germany|TRAPP|Kevin|TRAPP|08.07.1990|GK|Paris Saint-Germain (FRA)|189|3|0
+13|Thomas MUELLER|Germany|MÜLLER|Thomas|MÜLLER|13.09.1989|MF|Bayern München (GER)|186|91|38
+14|Leon GORETZKA|Germany|GORETZKA|Leon Christoph|GORETZKA|06.02.1995|MF|Schalke 04 (GER)|189|15|6
+15|Niklas SUELE|Germany|SÜLE|Niklas|SÜLE|03.09.1995|DF|Bayern München (GER)|195|11|0
+16|Antonio RUEDIGER|Germany|RÜDIGER|Antonio|RÜDIGER|03.03.1993|DF|Chelsea (ENG)|191|24|1
+17|Jerome BOATENG|Germany|BOATENG|Jerome Agyenim|BOATENG|03.09.1988|DF|Bayern München (GER)|192|71|1
+18|Joshua KIMMICH|Germany|KIMMICH|Joshua Walter|KIMMICH|08.02.1995|DF|Bayern München (GER)|176|29|3
+19|Sebastian RUDY|Germany|RUDY|Sebastian|RUDY|28.02.1990|MF|Bayern München (GER)|179|25|1
+20|Julian BRANDT|Germany|BRANDT|Julian|BRANDT|02.05.1996|MF|Bayer Leverkusen (GER)|183|16|1
+21|Ilkay GUENDOGAN|Germany|GÜNDOGAN|Ilkay|GÜNDOGAN|24.10.1990|MF|Manchester City (ENG)|180|26|4
+22|Marc-Andre TER STEGEN|Germany|TER STEGEN|Marc-André|TER STEGEN|30.04.1992|GK|FC Barcelona (ESP)|187|20|0
+23|Mario GOMEZ|Germany|GOMEZ GARCIA|Mario|GOMEZ|10.07.1985|FW|VfB Stuttgart (GER)|189|75|31
+1|Hannes HALLDORSSON|Iceland|HALLDORSSON|Hannes Thor|HALLDORSSON|27.04.1984|GK|Randers FC (DEN)|193|49|0
+2|Birkir SAEVARSSON|Iceland|SAEVARSSON|Birkir Mar|SÆVARSSON|11.11.1984|DF|Valur (ISL)|186|79|1
+3|Samuel FRIDJONSSON|Iceland|FRIDJONSSON|Samúel Kári|FRIDJÓNSSON|22.02.1996|MF|Vålerenga Fotball (NOR)|185|4|1
+4|Albert GUDMUNDSSON|Iceland|GUDMUNDSSON|Albert|A. GUDMUNDSSON|15.06.1997|MF|PSV (NED)|177|5|3
+5|Sverrir INGASON|Iceland|INGASON|Sverrir Ingi|INGASON|05.08.1993|DF|FK Rostov (RUS)|188|20|3
+6|Ragnar SIGURDSSON|Iceland|SIGURDSSON|Ragnar|R. SIGURDSSON|19.06.1986|DF|FK Rostov (RUS)|187|77|3
+7|Johann GUDMUNDSSON|Iceland|GUDMUNDSSON|Johann Berg|J. GUDMUNDSSON|27.10.1990|MF|Burnley (ENG)|179|67|7
+8|Birkir BJARNASON|Iceland|BJARNASON|Birkir|BJARNASON|27.05.1988|MF|Aston Villa (ENG)|183|67|9
+9|Bjorn SIGURDARSON|Iceland|SIGURDARSON|Bjorn Bergmann|SIGURDARSON|26.02.1991|FW|FK Rostov (RUS)|187|13|1
+10|Gylfi SIGURDSSON|Iceland|SIGURDSSON|Gylfi Thor|G. SIGURDSSON|08.09.1989|MF|Everton (ENG)|186|57|19
+11|Alfred FINNBOGASON|Iceland|FINNBOGASON|Alfred|FINNBOGASON|01.02.1989|FW|FC Augsburg (GER)|185|47|13
+12|Frederik SCHRAM|Iceland|SCHRAM|Frederik August Albrecht|SCHRAM|19.01.1995|GK|Roskilde BK (DEN)|198|4|0
+13|Runar RUNARSSON|Iceland|RÚNARSSON|Rúnar Alex|RÚNARSSON|18.02.1995|GK|FC Nordsjælland (DEN)|186|3|0
+14|Kari ARNASON|Iceland|ARNASON|Kari|ÁRNASON|13.10.1982|DF|Aberdeen (SCO)|191|67|5
+15|Holmar EYJOLFSSON|Iceland|EYJOLFSSON|Holmar Orn|EYJÓLFSSON|06.08.1990|DF|Levski Sofia (BUL)|188|10|1
+16|Olafur SKULASON|Iceland|SKULASON|Olafur Ingi|Ó. SKÚLASON|01.04.1983|MF|Karabukspor (TUR)|184|36|1
+17|Aron GUNNARSSON|Iceland|GUNNARSSON|Aron Einar|GUNNARSSON|22.04.1989|MF|Cardiff City (WAL)|181|77|2
+18|Hordur MAGNUSSON|Iceland|MAGNUSSON|Hordur Bjorgvin|MAGNÚSSON|11.02.1993|DF|Bristol City (ENG)|191|16|2
+19|Rurik GISLASON|Iceland|GISLASON|Rurik|GÍSLASON|25.02.1988|MF|SV Sandhausen (GER)|184|47|3
+20|Emil HALLFREDSSON|Iceland|HALLFREDSSON|Emil|HALLFREDSSON|29.06.1984|MF|Udinese (ITA)|186|64|1
+21|Arnor TRAUSTASON|Iceland|TRAUSTASON|Arnor Ingvi|TRAUSTASON|30.04.1993|MF|Malmö FF (SWE)|183|19|5
+22|Jon BODVARSSON|Iceland|BODVARSSON|Jon Dadi|BÖDVARSSON|25.05.1992|FW|Reading (ENG)|189|38|2
+23|Ari SKULASON|Iceland|SKULASON|Ari Freyr|A. SKÚLASON|14.05.1987|DF|Lokeren (BEL)|170|56|0
+1|Ali BEIRANVAND|IR Iran|SAFARBEIRANVAND|Ali Reza|A. BEIRANVAND|21.09.1992|GK|Persepolis Football Club (IRN)|194|22|0
+2|Mehdi TORABI|IR Iran|TORABI|Mahdi|M. TORABI|10.09.1994|MF|Saipa (IRN)|185|15|4
+3|Ehsan HAJI SAFI|IR Iran|HAJI SAFI|Ehsan|HAJI SAFI|25.02.1990|DF|Olympiacos (GRE)|178|94|6
+4|Roozbeh CHESHMI|IR Iran|CHESHMI|Roozbeh|R. CHESHMI|24.07.1993|DF|Esteghlal Tehran (IRN)|192|9|1
+5|Milad MOHAMMADI|IR Iran|MOHAMMADI KESHMARZI|Milad|M. MOHAMMADI|29.09.1993|DF|FC Akhmat Grozny (RUS)|178|19|0
+6|Saeid EZATOLAHI|IR Iran|EZATOLAHI AFAGH|Saeid|S. EZATOLAHI|01.10.1996|MF|FK Amkar Perm (RUS)|190|25|2
+7|Masoud SHOJAEI|IR Iran|SOLEIMANI SHOJAEI|Masoud|SHOJAEI. M|09.06.1984|MF|AEK Athinai (GRE)|187|74|8
+8|Morteza POURALIGANJI|IR Iran|POURALIGANJI|Morteza|M. POURALIGANJI|19.04.1992|DF|Al Sadd (QAT)|187|27|2
+9|Omid EBRAHIMI|IR Iran|EBRAHIMI ZARANDINI|Omid|OMID|16.09.1987|MF|Esteghlal Tehran (IRN)|178|29|0
+10|Karim ANSARIFARD|IR Iran|ANSARIFARD|Karim|KARIM|03.04.1990|FW|Olympiacos (GRE)|187|64|18
+11|Vahid AMIRI|IR Iran|AMIRI|Vahid|V. AMIRI|02.04.1988|MF|Persepolis Football Club (IRN)|179|35|1
+12|Rashid MAZAHERI|IR Iran|MAZAHERI|Mohammad Rashid|RASHID|18.05.1989|GK|Zob Ahan Isfahan FC (IRN)|192|3|0
+13|Mohammad Reza KHANZADEH|IR Iran|KHANZADEH DARABY|Mohammad Reza|M.R. KHANZADEH|11.05.1991|DF|Padideh Khorasan Football Club(IRN)|186|8|1
+14|Saman GHODDOS|IR Iran|GHODDOOS|Seyed Saman|GHODDOS|06.09.1993|FW|IFK Östersund FK (SWE)|177|7|1
+15|Pejman MONTAZERI|IR Iran|MONTAZERI|Pejman|P. MONTAZERI|06.09.1983|DF|Esteghlal Tehran (IRN)|185|46|1
+16|Reza GHOOCHANNEJHAD|IR Iran|GHOOCHANNEJHAD NOURNIA|Reza|REZA|20.09.1987|FW|sc Heerenveen (NED)|180|43|17
+17|Mehdi TAREMI|IR Iran|TAREMI|Mehdi|MEHDI|18.07.1992|FW|Al Gharrafa (QAT)|187|26|11
+18|Alireza JAHANBAKHSH|IR Iran|JAHANBAKHSH JIRANDEH|Alireza|A. JAHANBAKHSH|11.08.1993|FW|AZ (NED)|180|38|4
+19|Majid HOSSEINI|IR Iran|HOSSEINI|Seyed Majid|M. HOSSEINI|20.06.1996|DF|Esteghlal Tehran (IRN)|183|1|0
+20|Sardar AZMOUN|IR Iran|AZMOUN|Sardar|SARDAR|01.01.1995|FW|Rubin Kazan (RUS)|186|32|23
+21|Ashkan DEJAGAH|IR Iran|DEJAGAH|Seyed Ashkan|DEJAGAH|05.07.1986|FW|Nottingham Forest FC (ENG)|181|45|9
+22|Amir ABEDZADEH|IR Iran|ABEDZADEH|Amir|ABEDZADEH|26.04.1993|GK|CS Marítimo (POR)|186|1|0
+23|Ramin REZAEIAN|IR Iran|REZAEIAN SEMESKANDI|Ramin|RAMIN|21.03.1990|DF|KV Oostende (BEL)|185|26|2
+1|Eiji KAWASHIMA|Japan|KAWASHIMA|Eiji|KAWASHIMA|20.03.1983|GK|FC Metz (FRA)|185|84|0
+2|Naomichi UEDA|Japan|UEDA|Naomichi|UEDA|24.10.1994|DF|Kashima Antlers (JPN)|186|4|0
+3|Gen SHOJI|Japan|SHOJI|Gen|SHOJI|11.12.1992|DF|Kashima Antlers (JPN)|182|12|1
+4|Keisuke HONDA|Japan|HONDA|Keisuke|HONDA|13.06.1986|MF|CF Pachuca (MEX)|182|95|36
+5|Yuto NAGATOMO|Japan|NAGATOMO|Yuto|NAGATOMO|12.09.1986|DF|Galatasaray (TUR)|170|105|3
+6|Wataru ENDO|Japan|ENDO|Wataru|ENDO|09.02.1993|DF|Urawa Reds (JPN)|178|12|0
+7|Gaku SHIBASAKI|Japan|SHIBASAKI|Gaku|SHIBASAKI|28.05.1992|MF|Getafe CF (ESP)|175|18|3
+8|Genki HARAGUCHI|Japan|HARAGUCHI|Genki|HARAGUCHI|09.05.1991|MF|Fortuna Duesseldorf (GER)|178|33|6
+9|Shinji OKAZAKI|Japan|OKAZAKI|Shinji|OKAZAKI|16.04.1986|FW|Leicester (ENG)|174|113|50
+10|Shinji KAGAWA|Japan|KAGAWA|Shinji|KAGAWA|17.03.1989|MF|Borussia Dortmund (GER)|175|92|30
+11|Takashi USAMI|Japan|USAMI|Takashi|USAMI|06.05.1992|MF|Fortuna Duesseldorf (GER)|178|24|3
+12|Masaaki HIGASHIGUCHI|Japan|HIGASHIGUCHI|Masaaki|HIGASHIGUCHI|12.05.1986|GK|Gamba Osaka (JPN)|184|5|0
+13|Yoshinori MUTO|Japan|MUTO|Yoshinori|MUTO|15.07.1992|FW|Mainz 05 (GER)|179|23|2
+14|Takashi INUI|Japan|INUI|Takashi|INUI|02.06.1988|MF|Eibar (ESP)|169|27|4
+15|Yuya OSAKO|Japan|OSAKO|Yuya|OSAKO|18.05.1990|FW|1. FC Köln (GER)|182|29|7
+16|Hotaru YAMAGUCHI|Japan|YAMAGUCHI|Hotaru|YAMAGUCHI|06.10.1990|MF|Cerezo Osaka (JPN)|173|42|2
+17|Makoto HASEBE|Japan|HASEBE|Makoto|HASEBE|18.01.1984|MF|Eintracht Frankfurt (GER)|180|110|2
+18|Ryota OHSHIMA|Japan|OHSHIMA|Ryota|OHSHIMA|23.01.1993|MF|Kawasaki Frontale (JPN)|168|5|0
+19|Hiroki SAKAI|Japan|SAKAI|Hiroki|H. SAKAI|12.04.1990|DF|Olympique Marseille (FRA)|183|43|0
+20|Tomoaki MAKINO|Japan|MAKINO|Tomoaki|MAKINO|11.05.1987|DF|Urawa Reds (JPN)|182|32|4
+21|Gotoku SAKAI|Japan|SAKAI|Gotoku|G. SAKAI|14.03.1991|DF|Hamburger SV (GER)|176|41|0
+22|Maya YOSHIDA|Japan|YOSHIDA|Maya|YOSHIDA|24.08.1988|DF|Southampton (ENG)|189|82|10
+23|Kosuke NAKAMURA|Japan|NAKAMURA|Kosuke|NAKAMURA|27.02.1995|GK|Kashiwa Reysol (JPN)|184|4|0
+1|KIM Seunggyu|Korea Republic|KIM|Seunggyu S G KIM|Seunggyu S G KIM|30.09.1990|GK|Vissel Kobe (JPN)|187|33|0
+2|LEE Yong|Korea Republic|LEE|Yong Y LEE|Yong Y LEE|24.12.1986|DF|Jeonbuk Motors (KOR)|180|28|0
+3|JUNG Seunghyun|Korea Republic|JUNG|Seunghyun S H JUNG|Seunghyun S H JUNG|03.04.1994|DF|Sagan Tosu Football Club (JPN)|188|6|0
+4|OH Bansuk|Korea Republic|OH|Bansuk B S OH|Bansuk B S OH|20.05.1988|DF|Jeju United (KOR)|189|2|0
+5|YUN Youngsun|Korea Republic|YUN|Youngsun Y S YUN|Youngsun Y S YUN|04.10.1988|DF|Seongnam Ilhwa Chunma (KOR)|185|6|0
+6|PARK Jooho|Korea Republic|PARK|Jooho J H PARK|Jooho J H PARK|16.01.1987|DF|Ulsan Hyundai (KOR)|174|36|0
+7|SON Heungmin|Korea Republic|SON|Heungmin H M SON|Heungmin H M SON|08.07.1992|FW|Tottenham Hotspur (ENG)|183|67|21
+8|JU Sejong|Korea Republic|JU|Sejong S J JU|Sejong S J JU|30.10.1990|MF|Asan Mugunghwa Football Club(KOR)|176|10|1
+9|KIM Shinwook|Korea Republic|KIM|Shinwook S W KIM|Shinwook S W KIM|14.04.1988|FW|Jeonbuk Motors (KOR)|197|50|10
+10|LEE Seungwoo|Korea Republic|LEE|Seungwoo S W LEE|Seungwoo S W LEE|06.01.1998|MF|Verona (ITA)|170|4|0
+11|HWANG Heechan|Korea Republic|HWANG|Hee Chan H C HWANG|Hee Chan H C HWANG|26.01.1996|FW|Red Bull Salzburg (AUT)|177|14|2
+12|KIM Minwoo|Korea Republic|KIM|Minwoo M W KIM|Minwoo M W KIM|25.02.1990|DF|Sangmu (KOR)|172|20|1
+13|KOO Jacheol|Korea Republic|KOO|Jacheol J C KOO|Jacheol J C KOO|27.02.1989|MF|FC Augsburg (GER)|182|68|19
+14|HONG Chul|Korea Republic|HONG|Chul C HONG|Chul C HONG|17.09.1990|DF|Sangmu (KOR)|176|14|0
+15|JUNG Wooyoung|Korea Republic|JUNG|Wooyoung W Y JUNG|Wooyoung W Y JUNG|14.12.1989|MF|Vissel Kobe (JPN)|186|29|1
+16|KI Sungyueng|Korea Republic|KI|Sungyueng S Y KI|Sungyueng S Y KI|24.01.1989|MF|Swansea City (WAL)|186|102|10
+17|LEE Jaesung|Korea Republic|LEE|Jaesung J S LEE|Jaesung J S LEE|10.08.1992|MF|Jeonbuk Motors (KOR)|180|35|6
+18|MOON Seonmin|Korea Republic|MOON|Seon Min S M MOON|Seon Min S M MOON|09.06.1992|MF|Incheon United (KOR)|172|3|1
+19|KIM Younggwon|Korea Republic|KIM|Younggwon Y G KIM|Younggwon Y G KIM|27.02.1990|DF|Guangzhou Evergrande Taobao FC(CHN)|184|53|2
+20|JANG Hyunsoo|Korea Republic|JANG|Hyunsoo H S JANG|Hyunsoo H S JANG|28.09.1991|DF|FC Tokyo (JPN)|187|51|3
+21|KIM Jinhyeon|Korea Republic|KIM|Jinhyeon J H KIM|Jinhyeon J H KIM|06.07.1987|GK|Cerezo Osaka (JPN)|193|15|0
+22|GO Yohan|Korea Republic|GO|Yohan Y H GO|Yohan Y H GO|10.03.1988|DF|FC Seoul (KOR)|170|19|0
+23|JO Hyeonwoo|Korea Republic|JO|Hyeonwoo H W JO|Hyeonwoo H W JO|25.09.1991|GK|Daegu FC (KOR)|189|6|0
+1|Jose CORONA|Mexico|CORONA RODRIGUEZ|Jose De Jesus|J. CORONA|26.01.1981|GK|Cruz Azul (MEX)|182|54|0
+2|Hugo AYALA|Mexico|AYALA CASTRO|Hugo|H. AYALA|31.03.1987|DF|Tigres (MEX)|188|43|1
+3|Carlos SALCEDO|Mexico|SALCEDO HERNANDEZ|Carlos Joel|C. SALCEDO|29.09.1993|DF|Eintracht Frankfurt (GER)|189|21|0
+4|Rafael MARQUEZ|Mexico|MARQUEZ ALVAREZ|Rafael|R. MÁRQUEZ|13.02.1979|DF|Atlas (MEX)|184|145|15
+6|Jonathan DOS SANTOS|Mexico|DOS SANTOS RAMÍREZ|Jonathan|J. DOS SANTOS|26.04.1990|MF|LA Galaxy (USA)|173|37|0
+7|Miguel LAYUN|Mexico|LAYUN PRADO|Miguel Arturo|M. LAYÚN|25.06.1988|MF|Sevilla FC (ESP)|180|64|6
+8|Marco FABIAN|Mexico|FABIAN DE LA MORA|Marco Jhonfai|M. FABIÁN|21.07.1989|FW|Eintracht Frankfurt (GER)|171|39|9
+9|Raul JIMENEZ|Mexico|JIMENEZ RODRIGUEZ|Raul Alonso|RAÚL|05.05.1991|FW|Benfica (POR)|188|63|14
+10|Giovani DOS SANTOS|Mexico|DOS SANTOS RAMIREZ|Giovani|G. DOS SANTOS|11.05.1989|MF|LA Galaxy (USA)|178|105|19
+11|Carlos VELA|Mexico|VELA GARRIDO|Carlos Alberto|CARLOS V|01.03.1989|FW|Los Angeles Football Club (USA)|178|26|10
+12|Alfredo TALAVERA|Mexico|TALAVERA DIAZ|Alfredo|A. TALAVERA|18.09.1982|GK|Toluca (MEX)|188|28|0
+13|Guillermo OCHOA|Mexico|OCHOA MAGANA|Francisco Guillermo|G. OCHOA|13.07.1985|GK|Standard Liège (BEL)|185|94|0
+14|Javier HERNANDEZ|Mexico|HERNANDEZ BALCAZAR|Javier|J. HERNÁNDEZ|01.06.1988|FW|West Ham United (ENG)|175|102|49
+15|Hector MORENO|Mexico|MORENO HERRERA|Hector Alfredo|H. MORENO|17.01.1988|DF|Real Sociedad (ESP)|182|92|3
+16|Hector HERRERA|Mexico|HERRERA LOPEZ|Hector Miguel|H. HERRERA|19.04.1990|DF|FC Porto (POR)|180|66|5
+17|Jesus CORONA|Mexico|CORONA RUIZ|Jesus Manuel|JESÚS C.|06.01.1993|MF|FC Porto (POR)|174|36|7
+18|Andres GUARDADO|Mexico|GUARDADO HERNANDEZ|Jose Andres|A. GUARDADO|28.09.1986|MF|Real Betis (ESP)|167|147|25
+19|Oribe PERALTA|Mexico|PERALTA MORONES|Oribe|O. PERALTA|12.01.1984|FW|America (MEX)|178|66|26
+20|Javier AQUINO|Mexico|AQUINO CARMONA|Javier Ignacio|J. AQUINO|11.02.1990|MF|Tigres (MEX)|166|53|0
+21|Edson ALVAREZ|Mexico|ALVAREZ VELAZQUEZ|Edson Omar|E. ÁLVAREZ|24.10.1997|DF|America (MEX)|186|13|1
+22|Hirving LOZANO|Mexico|LOZANO BAHENA|Hirving Rodrigo|H. LOZANO|30.07.1995|FW|PSV (NED)|176|28|7
+23|Jesus GALLARDO|Mexico|GALLARDO VASCONCELOS|Jesus Daniel|J. GALLARDO|15.08.1994|MF|Pumas UNAM (MEX)|177|23|0
+1|Yassine BOUNOU|Morocco|BOUNOU|Yassine|BOUNOU|05.04.1991|GK|Girona Futbol Club (ESP)|190|34|0
+2|Achraf HAKIMI|Morocco|HAKIMI|Achraf|HAKIMI|04.11.1998|DF|Real Madrid (ESP)|179|12|1
+3|Hamza MENDYL|Morocco|MENDYL|Hamza|MENDYL|21.10.1997|DF|Lille OSC (FRA)|179|16|0
+4|Manuel DA COSTA|Morocco|DA COSTA TRINDADE|Manuel Marouan|DA COSTA|06.05.1986|DF|Istanbul Başakşehir (TUR)|187|27|2
+5|Mehdi BENATIA|Morocco|EL MOUTTAQUI|Mehdi Amine|BENATIA|17.04.1987|DF|Juventus (ITA)|188|60|4
+6|Ghanem SAISS|Morocco|SAISS|Ghanem|SAISS|26.03.1990|DF|Wolverhampton (ENG)|190|26|2
+7|Hakim ZIYACH|Morocco|ZIYACH|Hakim|ZIYACH|19.03.1993|MF|Ajax (NED)|180|18|10
+8|Karim EL AHMADI|Morocco|EL AHMADI AROUSSI|Karim|EL AHMADI|27.01.1985|MF|Feyenoord (NED)|179|52|1
+9|Ayoub EL KAABI|Morocco|EL KAABI|Ayoub|EL KAABI|25.06.1993|FW|RS Berkane (MAR)|182|3|2
+10|Younes BELHANDA|Morocco|BELHANDA|Younes|BELHANDA|25.02.1990|MF|Galatasaray (TUR)|174|50|5
+11|Faycal FAJR|Morocco|FAJR|Faycal|FAJR|01.08.1988|MF|Getafe CF (ESP)|178|24|2
+12|Monir EL KAJOUI|Morocco|EL KAJOUI|Monir|EL KAJOUI|10.05.1989|GK|Numancia (ESP)|190|33|0
+13|Khalid BOUTAIB|Morocco|BOUTAIB|Khalid|BOUTAIB|24.04.1987|FW|Malatyaspor (TUR)|190|20|9
+14|Mbark BOUSSOUFA|Morocco|BOUSSOUFA|M'bark|BOUSSOUFA|15.08.1984|MF|Al Jazeira (UAE)|167|61|7
+15|Youssef AIT BENNASSER|Morocco|AIT BENNASSER|Youssef|AIT BENNASSER|07.07.1996|MF|Caen (FRA)|184|14|0
+16|Noureddine AMRABAT|Morocco|AMRABAT|Noureddine|N. AMRABAT|31.03.1987|MF|Leganes (ESP)|178|45|4
+17|Nabil DIRAR|Morocco|DIRAR|Nabil|DIRAR|25.02.1986|DF|Fenerbahçe (TUR)|187|38|5
+18|Amine HARIT|Morocco|HARIT|Amine|HARIT|18.06.1997|MF|Schalke 04 (GER)|179|7|0
+19|Youssef EN NESYRI|Morocco|EN NESYRI|Youssef|EN-NESYRI|01.06.1997|FW|Malaga (ESP)|188|16|2
+20|Aziz BOUHADDOUZ|Morocco|BOUHADDOUZ|Aziz|BOUHADDOUZ|30.03.1987|FW|St. Pauli (GER)|188|15|3
+21|Sofyan AMRABAT|Morocco|AMRABAT|Sofyan|S. AMRABAT|21.08.1996|MF|Feyenoord (NED)|183|6|0
+22|Ahmed TAGNAOUTI|Morocco|TAGNAOUTI|Ahmed Reda|TAGNAOUTI|05.04.1996|GK|IRT Tanger (MAR)|186|5|0
+23|Mehdi CARCELA|Morocco|CARCELA GONZALEZ|Mehdi François|CARCELA|01.07.1989|MF|Standard Liège (BEL)|176|21|1
+1|Ikechukwu EZENWA|Nigeria|EZENWA|Ikechukwu Vincent|EZENWA|16.10.1988|GK|Enyimba (NGA)|181|24|0
+2|Bryan IDOWU|Nigeria|IDOWU|Bryan Oladapo|IDOWU|18.05.1992|DF|FK Amkar Perm (RUS)|179|5|0
+3|Elderson ECHIEJILE|Nigeria|ECHIEJILE|Elderson Uwa|ECHIEJILE|20.01.1988|DF|Cercle Brugge (BEL)|185|59|2
+4|Wilfred NDIDI|Nigeria|NDIDI|Onyinye Wilfred|NDIDI|16.12.1996|MF|Leicester (ENG)|184|17|0
+5|William EKONG|Nigeria|EKONG|William Paul|EKONG|01.09.1993|DF|Bursaspor (TUR)|191|21|1
+6|Leon BALOGUN|Nigeria|BALOGUN|Leon Aderemi|BALOGUN|28.06.1988|DF|Mainz 05 (GER)|190|19|0
+7|Ahmed MUSA|Nigeria|MUSA|Ahmed|MUSA|14.10.1992|FW|CSKA Moskva (RUS)|173|70|13
+8|Oghenekaro ETEBO|Nigeria|ETEBO|Oghenekaro Peter|ETEBO|09.11.1995|MF|Las Palmas (ESP)|174|12|1
+9|Odion IGHALO|Nigeria|IGHALO|Odion Jude|IGHALO|16.06.1989|FW|Changchun Yatai (CHN)|188|19|4
+10|John Obi MIKEL|Nigeria|MIKEL|John Obi|MIKEL|22.04.1987|MF|Tianjin Teda (CHN)|188|82|6
+11|Victor MOSES|Nigeria|MOSES|Victor|MOSES|12.12.1990|FW|Chelsea (ENG)|177|31|11
+12|Abdullahi SHEHU|Nigeria|SHEHU|Abdullahi|SHEHU|12.03.1993|DF|Bursaspor (TUR)|182|15|0
+13|Simeon NWANKWO|Nigeria|NWANKWO|Simeon Tochukwu|NWANKWO|07.05.1992|FW|Crotone FC (ITA)|197|2|0
+14|Kelechi IHEANACHO|Nigeria|IHEANACHO|Kelechi Promise|IHEANACHO|10.03.1996|FW|Leicester (ENG)|183|17|8
+15|Joel OBI|Nigeria|OBI|Joel Chukwuma|OBI|22.05.1991|MF|Torino (ITA)|177|17|0
+16|Daniel AKPEYI|Nigeria|AKPEYI|Daniel|AKPEYI|08.03.1986|GK|Chippa United FC (RSA)|187|6|0
+17|Ogenyi ONAZI|Nigeria|ONAZI|Ogenyi Eddy|ONAZI|25.12.1992|MF|Trabzonspor (TUR)|172|50|1
+18|Alex IWOBI|Nigeria|IWOBI|Alexander Chuka|IWOBI|03.05.1996|FW|Arsenal (ENG)|185|18|5
+19|John OGU|Nigeria|OGU|Ugochukwu John|OGU|20.04.1988|MF|Hapoel Beer Sheva (ISR)|191|19|2
+20|Chidozie AWAZIEM|Nigeria|AWAZIEM|Chidozie Collins|AWAZIEM|01.01.1997|DF|Nantes (FRA)|192|3|0
+21|Tyronne EBUEHI|Nigeria|EBUEHI|Tyronne Efe|EBUEHI|16.12.1995|DF|ADO Den Haag (NED)|187|7|0
+22|Kenneth OMERUO|Nigeria|OMERUO|Kenneth Josiah|OMERUO|17.10.1993|DF|Kasimpasa SK (TUR)|185|38|0
+23|Francis UZOHO|Nigeria|UZOHO|Francis Odinaka|UZOHO|28.10.1998|GK|Deportivo La Coruña (ESP)|196|6|0
+1|Jaime PENEDO|Panama|PENEDO CANO|Jaime Manuel|PENEDO|26.09.1981|GK|Dinamo Bucuresti (ROU)|183|131|0
+2|Michael MURILLO|Panama|MURILLO BERMUDEZ|Michael Amir|MURILLO|11.02.1996|DF|New York (USA)|183|22|2
+3|Harold CUMMINGS|Panama|CUMMINGS SEGURA|Harold Oshkaly|CUMMINGS|01.03.1992|DF|San Jose Earthquakes (USA)|183|47|0
+4|Fidel ESCOBAR|Panama|ESCOBAR MENDIETA|Fidel|ESCOBAR|09.01.1995|DF|New York (USA)|182|23|1
+5|Roman TORRES|Panama|TORRES MORCILLO|Román|R. TORRES|20.03.1986|DF|Seattle Sounders Football Club(USA)|188|108|10
+6|Gabriel GOMEZ|Panama|GOMEZ GIRON|Gabriel Enrique|GOMEZ|29.05.1984|MF|Bucaramanga (COL)|183|142|11
+7|Blas PEREZ|Panama|PEREZ ORTEGA|Blas Antonio Miguel|PEREZ|13.03.1981|FW|Municipal (GUA)|187|117|43
+8|Edgar BARCENAS|Panama|BARCENAS HERRERA|Edgar Yoel|BARCENAS|23.10.1993|MF|Cafetaleros de Tapachula (MEX)|175|29|0
+9|Gabriel TORRES|Panama|TORRES TEJADA|Gabriel Arturo|G. TORRES|31.10.1988|FW|Huachipato (CHI)|180|72|14
+10|Ismael DIAZ|Panama|DIAZ DE LEON|Ismael|DIAZ|12.05.1997|FW|Deportivo La Coruña (ESP)|181|8|2
+11|Armando COOPER|Panama|COOPER WHITAKER|Armando Enrique|COOPER|26.11.1987|MF|Universidad de Chile (CHI)|173|97|7
+12|Jose CALDERON|Panama|CALDERON FRIAS|Jose De Jesus|CALDERON|14.08.1985|GK|Chorrillo (PAN)|187|32|0
+13|Adolfo MACHADO|Panama|MACHADO|Adolfo Abdiel|MACHADO|14.02.1985|DF|Houston Dynamo (USA)|182|76|1
+14|Valentin PIMENTEL|Panama|PIMENTEL ARMUELLES|Valentin Enrique|PIMENTEL|30.05.1991|MF|Plaza Amador (PAN)|189|23|1
+15|Eric DAVIS|Panama|DAVIS GRAJALES|Eric Javier|DAVIS|31.03.1991|DF|DAC Dunajska Streda (SVK)|180|38|0
+16|Abdiel ARROYO|Panama|ARROYO MOLINAR|Abdiel|ARROYO|13.12.1993|FW|Alajuelense (CRC)|183|33|5
+17|Luis OVALLE|Panama|OVALLE VICTORIA|Luis Carlos|OVALLE|07.09.1988|DF|Olimpia (HON)|178|25|0
+18|Luis TEJADA|Panama|TEJADA HANSELL|Luis Carlos|TEJADA|28.03.1982|FW|Sport Boys Association (PER)|183|104|43
+19|Ricardo AVILA|Panama|AVILA|Ricardo|AVILA|04.02.1997|MF|AA Gent (BEL)|182|5|0
+20|Anibal GODOY|Panama|GODOY LEMUS|Anibal Casis|GODOY|10.02.1990|MF|San Jose Earthquakes (USA)|183|88|1
+21|Jose Luis RODRIGUEZ|Panama|RODRIGUEZ FRANCIS|José Luis|J. RODRIGUEZ|19.06.1998|MF|AA Gent (BEL)|180|2|0
+22|Alex RODRIGUEZ|Panama|RODRIGUEZ LEDEZMA|Alex Raul|RODRIGUEZ|05.08.1990|GK|San Francisco (PAN)|197|6|0
+23|Felipe BALOY|Panama|BALOY RAMIREZ|Felipe Abdiel|BALOY|24.02.1981|DF|Municipal (GUA)|185|100|3
+1|Pedro GALLESE|Peru|GALLESE QUIROZ|Pedro David|GALLESE|23.02.1990|GK|Veracruz (MEX)|189|39|0
+2|Alberto RODRIGUEZ|Peru|RODRIGUEZ VALDELOMAR|Alberto Junior|RODRIGUEZ|31.03.1984|DF|Junior (COL)|179|73|0
+3|Aldo CORZO|Peru|CORZO CHAVEZ|Aldo Sebastian|CORZO|20.05.1989|DF|Universitario (PER)|172|24|0
+4|Anderson SANTAMARIA|Peru|SANTAMARIA BARDALES|Anderson|SANTAMARIA|10.01.1992|DF|Puebla FC (MEX)|183|6|0
+5|Miguel ARAUJO|Peru|ARAUJO BLANCO|Miguel Gianpierre|ARAUJO|24.10.1994|DF|Alianza Lima (PER)|178|8|0
+6|Miguel TRAUCO|Peru|TRAUCO SAAVEDRA|Miguel Angel|TRAUCO|25.08.1992|DF|Flamengo (BRA)|169|26|0
+7|Paolo HURTADO|Peru|HURTADO HUERTAS|Christopher Paolo César|HURTADO|27.07.1990|MF|Guimaraes (POR)|174|33|3
+8|Christian CUEVA|Peru|CUEVA BRAVO|Christian Alberto|CUEVA|23.11.1991|MF|São Paulo (BRA)|169|45|8
+9|Paolo GUERRERO|Peru|GUERRERO GONZALES|Jose Paolo|GUERRERO|01.01.1984|FW|Flamengo (BRA)|185|89|35
+10|Jefferson FARFAN|Peru|FARFAN GUADALUPE|Jefferson Agustin|FARFAN|26.10.1984|FW|Lokomotiv Moskva (RUS)|177|84|25
+11|Raul RUIDIAZ|Peru|RUIDIAZ MISITICH|Raul Mario|RUIDIAZ|25.07.1990|FW|Monarcas Morelia (MEX)|169|30|4
+12|Carlos CACEDA|Peru|CACEDA OLLAGUEZ|Carlos Alberto|CACEDA|27.09.1991|GK|Deportivo Municipal (PER)|184|6|0
+13|Renato TAPIA|Peru|TAPIA CORTIJO|Renato Fabrizio|TAPIA|28.07.1995|MF|Feyenoord (NED)|185|31|3
+14|Andy POLO|Peru|POLO ANDRADE|Andy Jorman|POLO|29.09.1994|MF|Portland Timbers (USA)|174|17|1
+15|Christian RAMOS|Peru|RAMOS GARAGAY|Christian Guillermo Martin|RAMOS|04.11.1988|DF|Veracruz (MEX)|182|70|3
+16|Wilder CARTAGENA|Peru|CARTAGENA MENDOZA|Wilder Jose|CARTAGENA|23.09.1994|MF|Veracruz (MEX)|179|3|0
+17|Luis ADVINCULA|Peru|ADVINCULA CASTRILLON|Luis Jan Piers|ADVINCULA|02.03.1990|DF|Universidad Autónoma de Puebla(MEX)|178|65|0
+18|Andre CARRILLO|Peru|CARRILLO DIAZ|Andre Martin|CARRILLO|14.06.1991|FW|Watford (ENG)|182|46|5
+19|Yoshimar YOTUN|Peru|YOTUN FLORES|Victor Yoshimar|YOTUN|07.04.1990|MF|Orlando City SC (USA)|172|73|2
+20|Edison FLORES|Peru|FLORES PERALTA|Edison Michael|FLORES|14.05.1994|FW|AaB (DEN)|170|29|9
+21|Jose CARVALLO|Peru|CARVALLO ALONSO|Jose Aurelio|CARVALLO|01.03.1986|GK|Universidad Técnica (PER)|182|6|0
+22|Nilson LOYOLA|Peru|LOYOLA MORALES|Nilson Evair|LOYOLA|26.10.1994|DF|Foot Ball Club Melgar (PER)|179|3|0
+23|Pedro AQUINO|Peru|AQUINO SANCHEZ|Pedro Jesus|AQUINO|13.04.1995|MF|Universidad Autónoma de Puebla(MEX)|174|13|0
+1|Wojciech SZCZESNY|Poland|SZCZĘSNY|Wojciech Tomasz|SZCZESNY|18.04.1990|GK|Juventus (ITA)|195|35|0
+2|Michal PAZDAN|Poland|PAZDAN|Michal|PAZDAN|21.09.1987|DF|Legia Warszawa (POL)|181|33|0
+3|Artur JEDRZEJCZYK|Poland|JEDRZEJCZYK|Artur Marcin|JEDRZEJCZYK|04.11.1987|DF|Legia Warszawa (POL)|189|36|3
+4|Thiago CIONEK|Poland|CIONEK|Thiago Ranagel|CIONEK|21.04.1986|DF|Spal Ferrara (ITA)|184|19|0
+5|Jan BEDNAREK|Poland|BEDNAREK|Jan Kacper|BEDNAREK|12.04.1996|DF|Southampton (ENG)|189|3|0
+5|Krzysztof MACZYNSKI|Poland|MACZYNSKI|Krzysztof|MACZYNSKI|23.05.1987|MF|Legia Warszawa (POL)|175|0|0
+6|Jacek GORALSKI|Poland|GORALSKI|Jacek|GORALSKI|21.09.1992|MF|PFC Ludogorets Razgrad (BUL)|172|5|0
+7|Arkadiusz MILIK|Poland|MILIK|Arkadiusz Krystian|MILIK|28.02.1994|FW|SSC Napoli (ITA)|186|40|12
+8|Karol LINETTY|Poland|LINETTY|Karol|LINETTY|02.02.1995|MF|Sampdoria (ITA)|176|20|1
+9|Robert LEWANDOWSKI|Poland|LEWANDOWSKI|Robert|LEWANDOWSKI|21.08.1988|FW|Bayern München (GER)|185|95|55
+10|Grzegorz KRYCHOWIAK|Poland|KRYCHOWIAK|Grzegorz|KRYCHOWIAK|29.01.1990|MF|West Bromwich Albion FC (ENG)|186|51|2
+11|Kamil GROSICKI|Poland|GROSICKI|Kamil Pawel|GROSICKI|08.06.1988|MF|Hull City (ENG)|180|57|12
+12|Bartosz BIALKOWSKI|Poland|BIALKOWSKI|Bartosz Marek|BIALKOWSKI|06.07.1987|GK|Ipswich Town (ENG)|194|1|0
+13|Maciej RYBUS|Poland|RYBUS|Maciej|RYBUS|19.08.1989|MF|Lokomotiv Moskva (RUS)|173|51|2
+14|Lukasz TEODORCZYK|Poland|TEODORCZYK|Lukasz|TEODORCZYK|03.06.1991|FW|Anderlecht (BEL)|185|17|4
+15|Kamil GLIK|Poland|GLIK|Kamil|GLIK|03.02.1988|DF|AS Monaco (FRA)|190|58|4
+16|Jakub BLASZCZYKOWSKI|Poland|BŁASZCZYKOWSKI|Jakub|BLASZCZYKOWSKI|14.12.1985|MF|VfL Wolfsburg (GER)|175|99|20
+17|Slawomir PESZKO|Poland|PESZKO|Slawomir Konrad|PESZKO|19.02.1985|MF|Lechia Gdansk (POL)|173|43|2
+18|Bartosz BERESZYNSKI|Poland|BERESZYNSKI|Bartosz|BERESZYNSKI|12.07.1992|DF|Sampdoria (ITA)|182|8|0
+19|Piotr ZIELINSKI|Poland|ZIELINSKI|Piotr Sebastian|ZIELINSKI|20.05.1994|MF|SSC Napoli (ITA)|177|33|5
+20|Lukasz PISZCZEK|Poland|PISZCZEK|Lukasz Piotr|PISZCZEK|03.06.1985|DF|Borussia Dortmund (GER)|184|63|3
+21|Rafal KURZAWA|Poland|KURZAWA|Rafal Maciej|KURZAWA|29.01.1993|MF|Górnik Zabrze (POL)|182|3|0
+22|Lukasz FABIANSKI|Poland|FABIAŃSKI|Lukasz|FABIANSKI|18.04.1985|GK|Swansea City (WAL)|190|45|0
+23|Dawid KOWNACKI|Poland|KOWNACKI|Dawid Igor|KOWNACKI|14.03.1997|FW|Sampdoria (ITA)|185|2|1
+1|RUI PATRICIO|Portugal|DOS SANTOS PATRÍCIO|Rui Pedro|RUI PATRICIO|15.02.1988|GK|Sporting CP (POR)|189|69|0
+2|BRUNO ALVES|Portugal|REGUFE ALVES|Bruno Eduardo|B. ALVES|27.11.1981|DF|Rangers (SCO)|187|96|11
+3|PEPE|Portugal|DE LIMA FERREIRA|Kepler Laveran|PEPE|26.02.1983|DF|Besiktas (TUR)|188|95|5
+4|MANUEL FERNANDES|Portugal|TAVARES FERNANDES|Manuel Henrique|M. FERNANDES|05.02.1986|MF|Lokomotiv Moskva (RUS)|174|14|3
+5|RAPHAEL GUERREIRO|Portugal|GUERREIRO|Raphael Adelino José|RAPHAEL|22.12.1993|DF|Borussia Dortmund (GER)|170|24|2
+6|JOSE FONTE|Portugal|DA ROCHA FONTE|José Miguel|FONTE|22.12.1983|DF|Dalian Yifang Football Club (CHN)|191|31|0
+7|CRISTIANO RONALDO|Portugal|DOS SANTOS AVEIRO|Cristiano Ronaldo|RONALDO|05.02.1985|FW|Real Madrid (ESP)|185|150|81
+8|JOAO MOUTINHO|Portugal|IRIA SANTOS MOUTINHO|João Filipe|J. MOUTINHO|08.09.1986|MF|AS Monaco (FRA)|170|110|7
+9|ANDRE SILVA|Portugal|VALENTE DA SILVA|André Miguel|ANDRÉ SILVA|06.11.1995|FW|AC Milan (ITA)|184|22|12
+10|JOAO MARIO|Portugal|NAVAL DA COSTA EDUARDO|João Mário|J. MÁRIO|19.01.1993|MF|West Ham United (ENG)|179|36|2
+11|BERNARDO SILVA|Portugal|MOTA VEIGA DE CARVALHO ESILVA|Bernardo|BERNARDO|10.08.1994|MF|Manchester City (ENG)|173|25|2
+12|ANTHONY LOPES|Portugal|LOPES|Anthony|LOPES|01.10.1990|GK|Olympique Lyon (FRA)|184|7|0
+13|RUBEN DIAS|Portugal|DOS SANTOS GATO ALVES DIAS|Rúben|RUBEN DIAS|14.05.1997|DF|Benfica (POR)|187|1|0
+14|WILLIAM|Portugal|SILVA DE CARVALHO|William|WILLIAM|07.04.1992|MF|Sporting CP (POR)|190|43|2
+15|RICARDO|Portugal|BARBOSA PEREIRA|Ricardo Domingos|RICARDO|06.10.1993|DF|FC Porto (POR)|174|4|0
+16|BRUNO FERNANDES|Portugal|BORGES FERNANDES|Bruno Miguel|B. FERNANDES|08.09.1994|MF|Sporting CP (POR)|183|6|1
+17|GONCALO GUEDES|Portugal|GANCHINHO GUEDES|Gonçalo Manuel|G. GUEDES|29.11.1996|FW|Valencia CF (ESP)|179|10|3
+18|GELSON MARTINS|Portugal|BATALHA MARTINS|Gelson Dany|GELSON|11.05.1995|FW|Sporting CP (POR)|173|18|0
+19|MARIO RUI|Portugal|SILVA DUARTE|Mário Rui|MÁRIO RUI|27.05.1991|DF|SSC Napoli (ITA)|168|4|0
+20|RICARDO QUARESMA|Portugal|ANDRADE QUARESMA BERNARDO|Ricardo|QUARESMA|26.09.1983|FW|Besiktas (TUR)|175|77|9
+21|CEDRIC|Portugal|ALVES SOARES|Cédric Ricardo|CÉDRIC|31.08.1991|DF|Southampton (ENG)|172|29|1
+22|BETO|Portugal|BASTOS PIMPAREL|António Alberto|BETO|01.05.1982|GK|Goztepespor (TUR)|183|14|0
+23|ADRIEN SILVA|Portugal|PERRUCHET DA SILVA|Adrien Sébastien|ADRIEN|15.03.1989|MF|Leicester (ENG)|176|24|1
+1|Igor AKINFEEV|Russia|AKINFEEV|Igor|AKINFEEV|08.04.1986|GK|CSKA Moskva (RUS)|185|107|0
+2|MARIO FERNANDES|Russia|FIGUEIRA FERNANDES|Mario|FERNANDES|19.09.1990|DF|CSKA Moskva (RUS)|187|6|0
+3|Ilya KUTEPOV|Russia|KUTEPOV|Ilya|KUTEPOV|29.07.1993|DF|Spartak Moskva (RUS)|190|8|0
+4|Sergey IGNASHEVICH|Russia|IGNASHEVICH|Sergey|IGNASHEVICH|14.07.1979|DF|CSKA Moskva (RUS)|186|123|9
+5|Andrey SEMENOV|Russia|SEMENOV|Andrey|SEMENOV|24.03.1989|DF|FC Akhmat Grozny (RUS)|191|6|0
+6|Denis CHERYSHEV|Russia|CHERYSHEV|Denis|CHERYSHEV|26.12.1990|MF|Villarreal CF (ESP)|173|12|2
+7|Daler KUZIAEV|Russia|KUZIAEV|Daler|KUZIAEV|15.01.1993|MF|Zenit St. Petersburg (RUS)|182|7|0
+8|Iury GAZINSKY|Russia|GAZINSKII|Iurii|GAZINSKII|20.07.1989|MF|Krasnodar (RUS)|180|7|1
+9|Alan DZAGOEV|Russia|DZAGOEV|Alan|DZAGOEV|17.06.1990|MF|CSKA Moskva (RUS)|178|58|9
+10|Fedor SMOLOV|Russia|SMOLOV|Fedor|SMOLOV|09.02.1990|FW|Krasnodar (RUS)|185|33|12
+11|Roman ZOBNIN|Russia|ZOBNIN|Roman|ZOBNIN|11.02.1994|MF|Spartak Moskva (RUS)|185|13|0
+12|Andrei LUNEV|Russia|LUNEV|Andrei|LUNEV|13.11.1991|GK|Zenit St. Petersburg (RUS)|189|3|0
+13|Fedor KUDRIASHOV|Russia|KUDRIASHOV|Fedor|KUDRIASHOV|05.04.1987|DF|Rubin Kazan (RUS)|187|19|0
+14|Vladimir GRANAT|Russia|GRANAT|Vladimir|GRANAT|22.05.1987|DF|Rubin Kazan (RUS)|184|12|1
+15|Alexey MIRANCHUK|Russia|MIRANCHUK|Alexey|AL MIRANCHUK|17.10.1995|MF|Lokomotiv Moskva (RUS)|185|18|4
+16|Anton MIRANCHUK|Russia|MIRANCHUK|Anton|AN MIRANCHUK|17.10.1995|MF|Lokomotiv Moskva (RUS)|182|6|0
+17|Aleksandr GOLOVIN|Russia|GOLOVIN|Aleksandr|GOLOVIN|30.05.1996|MF|CSKA Moskva (RUS)|178|20|3
+18|Yury ZHIRKOV|Russia|ZHIRKOV|Yury|ZHIRKOV|20.08.1983|MF|Zenit St. Petersburg (RUS)|180|85|2
+19|Alexander SAMEDOV|Russia|SAMEDOV|Alexander|SAMEDOV|19.07.1984|MF|Spartak Moskva (RUS)|178|49|7
+20|Vladimir GABULOV|Russia|GABULOV|Vladimir|GABULOV|19.10.1983|GK|Club Brugge (BEL)|190|10|0
+21|Aleksandr EROKHIN|Russia|EROKHIN|Aleksandr|EROKHIN|13.10.1989|MF|Zenit St. Petersburg (RUS)|191|17|0
+22|Artem DZYUBA|Russia|DZYUBA|Artem|DZYUBA|22.08.1988|FW|Arsenal Tula (RUS)|196|24|12
+23|Igor SMOLNIKOV|Russia|SMOLNIKOV|Igor|SMOLNIKOV|08.08.1988|DF|Zenit St. Petersburg (RUS)|179|27|0
+1|ABDULLAH ALMUAIOUF|Saudi Arabia|ALMUAIOUF|Abdullah Ibrahim A|ABDULLAH|23.01.1987|GK|Al Hilal (KSA)|178|9|0
+2|MANSOUR ALHARBI|Saudi Arabia|ALHARBI|Mansour|MANSOUR|19.10.1987|DF|Al Ahli (KSA)|173|39|1
+3|OSAMA HAWSAWI|Saudi Arabia|HAWSAWI|Osama Abdulrzag M|OSAMA|31.03.1984|DF|Al Hilal (KSA)|188|136|7
+4|ALI ALBULAYHI|Saudi Arabia|ALBULAYHI|Ali Hadi M|ALI|21.11.1989|DF|Al Hilal (KSA)|182|4|0
+5|OMAR HAWSAWI|Saudi Arabia|HAWSAWI|Omar Ibrahim O|OMAR|27.09.1985|DF|Al Nasr (KSA)|185|41|3
+6|MOHAMMED ALBURAYK|Saudi Arabia|ALBURAYK|Mohammed Ibrahim M|ALBURAYK|15.09.1992|DF|Al Hilal (KSA)|173|10|0
+7|SALMAN ALFARAJ|Saudi Arabia|ALFARAJ|Salman Mohammed M|SALMAN|01.08.1989|MF|Al Hilal (KSA)|179|40|2
+8|YAHIA ALSHEHRI|Saudi Arabia|ALSHEHRI|Yahia Sulaiman Ali|YAHIA|26.06.1990|MF|Leganes (ESP)|165|57|7
+9|HATAN BAHBRI|Saudi Arabia|BAHBRI|Hatan Sultan|HATAN|16.07.1992|MF|Al Shabab (KSA)|170|6|0
+10|MOHAMMED ALSAHLAWI|Saudi Arabia|ALSAHLAWI|Mohammed IbrahimMohammad|ALSAHLAWI|10.01.1987|FW|Al Nasr (KSA)|179|41|28
+11|ABDULMALEK ALKHAIBRI|Saudi Arabia|ALKHAIBRI|Abdulmalek Abdullah A|ABDULMALEK|13.03.1986|MF|Al Hilal (KSA)|177|33|0
+12|MOHAMED KANNO|Saudi Arabia|KANNO|Mohamed Ibrahim A|KANNO|22.09.1994|MF|Al Hilal (KSA)|192|6|1
+13|YASSER ALSHAHRANI|Saudi Arabia|ALSHAHRANI|Yasir Gharsan S|YASSER|25.05.1992|DF|Al Hilal (KSA)|170|36|0
+14|ABDULLAH OTAYF|Saudi Arabia|OTAYF|Abdullah Ibrahim I|OTAYF|03.08.1992|MF|Al Hilal (KSA)|177|14|1
+15|ABDULLAH ALKHAIBARI|Saudi Arabia|ALKHAIBARI|Abdullah Mohammed|ALKHAIBARI|16.08.1996|MF|Al Shabab (KSA)|175|5|0
+16|HUSSAIN ALMOQAHWI|Saudi Arabia|ALMOQAHWI|Hussain Ali J|HUSSAIN|24.03.1988|MF|Al Ahli (KSA)|174|16|1
+17|TAISEER ALJASSAM|Saudi Arabia|ALJASSAM|Taiseer Jaber|TAISEER|25.07.1984|MF|Al Ahli (KSA)|169|133|19
+18|SALEM ALDAWSARI|Saudi Arabia|ALDAWSARI|Salem Mohammed S|SALEM|19.08.1991|MF|Villarreal CF (ESP)|174|32|4
+19|FAHAD ALMUWALLAD|Saudi Arabia|ALMUWALLAD ALHARBI|Fhad Mosaed|FAHAD|14.09.1994|FW|Levante UD (ESP)|168|46|10
+20|MUHANNAD ASIRI|Saudi Arabia|ABU RADIYAH|Muhannad Ahmed|MUHANNAD|14.10.1986|FW|Al Ahli (KSA)|185|18|4
+21|YASSER ALMOSAILEM|Saudi Arabia|ALMOSAILEM|Yasser Abdullah N|ALMOSAILEM|27.02.1984|GK|Al Ahli (KSA)|186|32|0
+22|MOHAMMED ALOWAIS|Saudi Arabia|ALOWAIS|Mohammed|ALOWAIS|10.10.1991|GK|Al Ahli (KSA)|187|6|0
+23|MOTAZ HAWSAWI|Saudi Arabia|HAWSAWI|Motaz Ali Hassan|MOTAZ|17.02.1992|DF|Al Ahli (KSA)|180|16|0
+1|Abdoulaye DIALLO|Senegal|DIALLO|Abdoulaye|DIALLO|30.03.1992|GK|Rennes (FRA)|189|16|0
+2|Saliou CISS|Senegal|CISS|Saliou|CISS|15.06.1989|DF|Valenciennes (FRA)|173|18|0
+3|Kalidou KOULIBALY|Senegal|KOULIBALY|Kalidou|KOULIBALY|20.06.1991|DF|SSC Napoli (ITA)|195|26|1
+4|Kara MBODJI|Senegal|MBODJI|Serigne Modou Kara|KARA|22.11.1989|DF|Anderlecht (BEL)|192|43|5
+5|Idrissa Gana GUEYE|Senegal|GUEYE|Idrissa Gana|GANA|26.09.1989|MF|Everton (ENG)|174|55|1
+6|Salif SANE|Senegal|SANE|Salif|S. SANE|25.08.1990|MF|Hannover 96 (GER)|196|18|0
+7|Moussa SOW|Senegal|SOW|Moussa|SOW|19.01.1986|FW|Bursaspor (TUR)|180|46|19
+8|Cheikhou KOUYATE|Senegal|KOUYATE|Cheikhou|C. KOUYATE|21.12.1989|MF|West Ham United (ENG)|189|48|3
+9|Mame DIOUF|Senegal|DIOUF|Mame Biram|M. DIOUF|16.12.1987|FW|Stoke (ENG)|185|44|10
+10|Sadio MANE|Senegal|MANE|Sadio|MANE|10.04.1992|FW|Liverpool (ENG)|175|52|14
+11|Cheikh NDOYE|Senegal|N'DOYE|Cheikh Tidiane|CH. NDOYE|29.03.1986|MF|Birmingham City (ENG)|192|27|3
+12|Youssouf SABALY|Senegal|SABALY|Youssouf|SABALY|05.03.1993|DF|Girondins Bordeaux (FRA)|174|6|0
+13|Alfred NDIAYE|Senegal|N'DIAYE|Alfred John Momar|A. NDIAYE|06.03.1990|MF|Wolverhampton (ENG)|186|16|1
+14|Moussa KONATE|Senegal|KONATE|Moussa|KONATE|03.04.1993|FW|Amiens (FRA)|180|26|9
+15|Diafra SAKHO|Senegal|SAKHO|Diafra|SAKHO|24.12.1989|FW|Rennes (FRA)|184|11|3
+16|Khadim NDIAYE|Senegal|NDIAYE|Khadim|KH. NDIAYE|05.04.1985|GK|Horoya Athlétique Club (GUI)|185|42|0
+17|Pape Alioune NDIAYE|Senegal|NDIAYE|Pape Alioune|P.A. NDIAYE|27.10.1990|MF|Stoke (ENG)|181|16|1
+18|Ismaila SARR|Senegal|SARR|Ismaila|ISMAÏLA|25.02.1998|FW|Rennes (FRA)|175|13|3
+19|Mbaye NIANG|Senegal|NIANG|Mbaye Hamady|NIANG|19.12.1994|FW|Torino (ITA)|184|8|0
+20|Keita BALDE|Senegal|BALDE DIAO|Keita|KEÏTA BALDE|08.03.1995|FW|AS Monaco (FRA)|181|18|3
+21|Lamine GASSAMA|Senegal|GASSAMA|Lamine|GASSAMA|20.10.1989|DF|Adanaspor (TUR)|181|39|0
+22|Moussa WAGUE|Senegal|WAGUE|Moussa|M. WAGUE|04.10.1998|DF|Eupen (BEL)|177|7|0
+23|Alfred GOMIS|Senegal|GOMIS|Amigo Alfred Junior|GOMIS|05.09.1993|GK|Spal Ferrara (ITA)|196|5|0
+1|Vladimir STOJKOVIC|Serbia|STOJKOVIĆ|Vladimir|STOJKOVIĆ|28.07.1983|GK|Partizan Beograd (SRB)|195|81|0
+2|Antonio RUKAVINA|Serbia|RUKAVINA|Antonio|RUKAVINA|26.01.1984|DF|Villarreal CF (ESP)|177|47|0
+3|Dusko TOSIC|Serbia|TOŠIĆ|Duško|TOŠIĆ|19.01.1985|DF|Besiktas (TUR)|185|24|1
+4|Luka MILIVOJEVIC|Serbia|MILIVOJEVIĆ|Luka|MILIVOJEVIĆ|07.04.1991|MF|Crystal Palace (ENG)|186|28|1
+5|Uros SPAJIC|Serbia|SPAJIC|Uros|SPAJIĆ|13.02.1993|DF|Anderlecht (BEL)|188|5|0
+6|Branislav IVANOVIC|Serbia|IVANOVIĆ|Branislav|IVANOVIĆ|22.02.1984|DF|Zenit St. Petersburg (RUS)|185|103|13
+7|Andrija ZIVKOVIC|Serbia|ŽIVKOVIĆ|Andrija|ŽIVKOVIĆ|11.07.1996|MF|Benfica (POR)|169|10|0
+8|Aleksandar PRIJOVIC|Serbia|PRIJOVIĆ|Aleksandar|PRIJOVIĆ|21.04.1990|FW|PAOK (GRE)|191|9|1
+9|Aleksandar MITROVIC|Serbia|MITROVIC|Aleksandar|MITROVIĆ|16.09.1994|FW|Fulham (ENG)|189|38|16
+10|Dusan TADIC|Serbia|TADIĆ|Dušan|TADIĆ|20.11.1988|MF|Southampton (ENG)|181|53|12
+11|Aleksandar KOLAROV|Serbia|KOLAROV|Aleksandar|KOLAROV|10.11.1985|DF|AS Roma (ITA)|187|76|10
+12|Predrag RAJKOVIC|Serbia|RAJKOVIĆ|Predrag|RAJKOVIĆ|31.10.1995|GK|Maccabi Tel Aviv (ISR)|191|8|0
+13|Milos VELJKOVIC|Serbia|VELJKOVIĆ|Miloš|VELJKOVIĆ|26.09.1995|DF|Werder Bremen (GER)|188|2|0
+14|Milan RODIC|Serbia|RODIĆ|Milan|RODIĆ|02.04.1991|DF|Crvena Zvezda (SRB)|185|1|0
+15|Nikola MILENKOVIC|Serbia|MILENKOVIĆ|Nikola|MILENKOVIĆ|12.10.1997|DF|Fiorentina (ITA)|195|3|0
+16|Marko GRUJIC|Serbia|GRUJIĆ|Marko|GRUJIĆ|13.04.1996|MF|Cardiff City (WAL)|190|7|0
+17|Filip KOSTIC|Serbia|KOSTIĆ|Filip|KOSTIĆ|01.11.1992|MF|Hamburger SV (GER)|184|23|2
+18|Nemanja RADONJIC|Serbia|RADONJIĆ|Nemanja|RADONJIĆ|15.02.1996|FW|Crvena Zvezda (SRB)|185|3|0
+19|Luka JOVIC|Serbia|JOVIĆ|Luka|JOVIĆ|23.12.1997|FW|Eintracht Frankfurt (GER)|181|1|0
+20|Sergej MILINKOVIC-SAVIC|Serbia|MILINKOVIĆ-SAVIĆ|Sergej|SERGEJ|27.02.1995|MF|Lazio (ITA)|192|4|0
+21|Nemanja MATIC|Serbia|MATIĆ|Nemanja|MATIĆ|01.08.1988|MF|Manchester United (ENG)|194|40|2
+22|Adem LJAJIC|Serbia|LJAJIĆ|Adem|LJAJIĆ|29.09.1991|MF|Torino (ITA)|182|30|6
+23|Marko DMITROVIC|Serbia|DMITROVIĆ|Marko|DMITROVIĆ|24.01.1992|GK|Eibar (ESP)|194|2|0
+1|David DE GEA|Spain|DE GEA QUINTANA|David|DE GEA|07.11.1990|GK|Manchester United (ENG)|190|29|0
+2|Dani CARVAJAL|Spain|CARVAJAL RAMOS|Daniel|CARVAJAL|11.01.1992|DF|Real Madrid (ESP)|173|15|0
+3|Gerard PIQUE|Spain|PIQUÉ BERNABEU|Gerard|PIQUÉ|02.02.1987|DF|FC Barcelona (ESP)|194|98|5
+4|NACHO|Spain|FERNÁNDEZ IGLESIAS|José Ignacio|NACHO|18.01.1990|DF|Real Madrid (ESP)|179|17|0
+5|Sergio BUSQUETS|Spain|BUSQUETS BURGOS|Sergio|SERGIO|16.07.1988|MF|FC Barcelona (ESP)|189|103|2
+6|Andres INIESTA|Spain|INIESTA LUJAN|Andres|A. INIESTA|11.05.1984|MF|FC Barcelona (ESP)|171|127|13
+7|SAUL|Spain|ÑIGUEZ ESCLAPEZ|Saúl|SAÚL|21.11.1994|MF|Atlético Madrid (ESP)|183|10|0
+8|KOKE|Spain|RESURRECCIÓN MERODIO|Jorge|KOKE|08.01.1992|MF|Atlético Madrid (ESP)|176|40|0
+9|RODRIGO|Spain|MORENO MACHADO|Rodrigo|RODRIGO M.|06.03.1991|FW|Valencia CF (ESP)|182|6|2
+10|THIAGO|Spain|ALCANTARA DO NASCIMENTO|Thiago|THIAGO|11.04.1991|MF|Bayern München (GER)|174|29|2
+11|Lucas VAZQUEZ|Spain|VÁZQUEZ IGLESIAS|Lucas|LUCAS V.|01.07.1991|FW|Real Madrid (ESP)|173|7|0
+12|Alvaro ODRIOZOLA|Spain|ODRIOZOLA ARZALLUS|Álvaro|ODRIOZOLA|14.12.1995|DF|Real Sociedad (ESP)|178|4|1
+13|Kepa ARRIZABALAGA|Spain|ARRIZABALAGA REVUELTA|Kepa|ARRIZABALAGA|03.10.1994|GK|Athletic Club (ESP)|189|1|0
+14|Cesar AZPILICUETA|Spain|AZPILICUETA TANCO|César|AZPILICUETA|28.08.1989|DF|Chelsea (ENG)|178|22|0
+15|Sergio RAMOS|Spain|RAMOS GARCIA|Sergio|RAMOS|30.03.1986|DF|Real Madrid (ESP)|183|152|13
+16|Nacho MONREAL|Spain|MONREAL ERASO|Ignacio|MONREAL|26.02.1986|DF|Arsenal (ENG)|179|22|1
+17|Iago ASPAS|Spain|ASPAS JUNCAL|Iago|IAGO ASPAS|01.08.1987|FW|Celta (ESP)|176|10|5
+18|Jordi ALBA|Spain|ALBA RAMOS|Jordi|JORDI ALBA|21.03.1989|DF|FC Barcelona (ESP)|170|62|8
+19|Diego COSTA|Spain|DA SILVA COSTA|Diego|DIEGO COSTA|07.10.1988|FW|Atlético Madrid (ESP)|185|20|7
+20|Marco ASENSIO|Spain|ASENSIO WILLEMSEN|Marco|ASENSIO|21.01.1996|MF|Real Madrid (ESP)|182|12|0
+21|David SILVA|Spain|JIMENEZ SILVA|David Josue|SILVA|08.01.1986|FW|Manchester City (ENG)|170|121|35
+22|ISCO|Spain|ALARCON SUAREZ|Francisco Roman|ISCO|21.04.1992|MF|Real Madrid (ESP)|176|28|10
+23|Pepe REINA|Spain|REINA PAEZ|José Manuel|REINA|31.08.1982|GK|SSC Napoli (ITA)|188|36|0
+1|Robin OLSEN|Sweden|OLSEN|Robin Patrick|OLSEN|08.01.1990|GK|FC København (DEN)|198|18|0
+2|Mikael LUSTIG|Sweden|LUSTIG|Carl Mikael|LUSTIG|13.12.1986|DF|Celtic (SCO)|189|66|6
+3|Victor LINDELOF|Sweden|NILSSON LINDELÖF|Victor Jörgen|LINDELÖF|17.07.1994|DF|Manchester United (ENG)|187|21|1
+4|Andreas GRANQVIST|Sweden|GRANQVIST|Andreas|GRANQVIST|16.04.1985|DF|Krasnodar (RUS)|192|72|6
+5|Martin OLSSON|Sweden|OLSSON|Martin Tony Waikwa|OLSSON|17.05.1988|DF|Swansea City (WAL)|177|43|5
+6|Ludwig AUGUSTINSSON|Sweden|AUGUSTINSSON|Hans Carl Ludwig|AUGUSTINSSON|21.04.1994|DF|Werder Bremen (GER)|181|15|0
+7|Sebastian LARSSON|Sweden|LARSSON|Bengt Ulf Sebastian|LARSSON|06.06.1985|MF|Hull City (ENG)|178|100|6
+8|Albin EKDAL|Sweden|EKDAL|Albin|EKDAL|28.07.1989|MF|Hamburger SV (GER)|186|34|0
+9|Marcus BERG|Sweden|BERG|Bengt Erik Markus|BERG|17.08.1986|FW|Al Ain (UAE)|183|57|18
+10|Emil FORSBERG|Sweden|FORSBERG|Emil Peter|FORSBERG|23.10.1991|MF|RasenBallsport Leipzig (GER)|179|36|6
+11|John GUIDETTI|Sweden|GUIDETTI|John Alberto|GUIDETTI|15.04.1992|FW|Alavés (ESP)|185|20|1
+12|Karl-Johan JOHNSSON|Sweden|JOHNSSON|Karl-Johan Anton|JOHNSSON|28.01.1990|GK|Guingamp (FRA)|187|5|0
+13|Gustav SVENSSON|Sweden|SVENSSON|Karl Gustav Johan|SVENSSON|07.02.1987|MF|Seattle Sounders Football Club(USA)|183|13|0
+14|Filip HELANDER|Sweden|HELANDER|Filip Viktor|HELANDER|22.04.1993|DF|Bologna (ITA)|192|4|0
+15|Oscar HILJEMARK|Sweden|HILJEMARK|Oscar Karl Niclas|HILJEMARK|28.06.1992|MF|Genoa (ITA)|184|22|2
+16|Emil KRAFTH|Sweden|KRAFT|Emil Henry Kristoffer|KRAFTH|02.08.1994|DF|Bologna (ITA)|181|13|0
+17|Viktor CLAESSON|Sweden|CLAESSON|Viktor Johan Anton|CLAESSON|02.01.1992|MF|Krasnodar (RUS)|183|22|3
+18|Pontus JANSSON|Sweden|JANSSON|Pontus Sven Gustav|JANSSON|13.02.1991|DF|Leeds (ENG)|194|15|0
+19|Marcus ROHDEN|Sweden|ROHDÉN|Marcus Christer|ROHDÉN|11.05.1991|MF|Crotone FC (ITA)|182|12|1
+20|Ola TOIVONEN|Sweden|TOIVONEN|Nils Ola|TOIVONEN|03.07.1986|FW|Toulouse FC (FRA)|192|59|13
+21|Jimmy DURMAZ|Sweden|DURMAZ|Jakup Jimmy|DURMAZ|22.03.1989|MF|Toulouse FC (FRA)|180|45|3
+22|Isaac Kiese THELIN|Sweden|THELIN|Isaac Kiese|KIESE THELIN|24.06.1992|FW|Beveren (BEL)|189|20|2
+23|Kristoffer NORDFELDT|Sweden|NORDFELDT|Bo Kristoffer|NORDFELDT|23.06.1989|GK|Swansea City (WAL)|190|8|0
+1|Yann SOMMER|Switzerland|SOMMER|Yann|SOMMER|17.12.1988|GK|Borussia Moenchengladbach (GER)|183|35|0
+2|Stephan LICHTSTEINER|Switzerland|LICHTSTEINER|Stephan|LICHTSTEINER|16.01.1984|DF|Juventus (ITA)|181|100|8
+3|Francois MOUBANDJE|Switzerland|MOUBANDJE|Jacques Francois|MOUBANDJE|21.06.1990|DF|Toulouse FC (FRA)|180|18|0
+4|Nico ELVEDI|Switzerland|ELVEDI|Nico|ELVEDI|30.09.1996|DF|Borussia Moenchengladbach (GER)|187|6|0
+5|Manuel AKANJI|Switzerland|AKANJI|Manuel Obafemi|AKANJI|19.07.1995|DF|Borussia Dortmund (GER)|186|7|0
+6|Michael LANG|Switzerland|LANG|Michael Rico|LANG|08.02.1991|DF|FC Basel (SUI)|185|24|2
+7|Breel EMBOLO|Switzerland|EMBOLO|Breel Donald|EMBOLO|14.02.1997|FW|Schalke 04 (GER)|184|25|3
+8|Remo FREULER|Switzerland|FREULER|Remo Marco|FREULER|15.04.1992|MF|Atalanta Bergamo (ITA)|181|10|0
+9|Haris SEFEROVIC|Switzerland|SEFEROVIC|Haris|SEFEROVIC|22.02.1992|FW|Benfica (POR)|186|51|12
+10|Granit XHAKA|Switzerland|XHAKA|Granit|XHAKA|27.09.1992|MF|Arsenal (ENG)|183|62|9
+11|Valon BEHRAMI|Switzerland|BEHRAMI|Valon|BEHRAMI|19.04.1985|MF|Udinese (ITA)|184|79|2
+12|Yvon MVOGO|Switzerland|MVOGO NGANOMA|Yvon Landry|MVOGO|06.06.1994|GK|RasenBallsport Leipzig (GER)|186|0|0
+13|Ricardo RODRIGUEZ|Switzerland|RODRIGUEZ ARAYA|Ricardo Ivan|RODRIGUEZ|25.08.1992|DF|AC Milan (ITA)|180|53|5
+14|Steven ZUBER|Switzerland|ZUBER|Steven|ZUBER|17.08.1991|MF|1899 Hoffenheim (GER)|182|12|3
+15|Blerim DZEMAILI|Switzerland|DZEMAILI|Blerim|DZEMAILI|12.04.1986|MF|Bologna (ITA)|180|65|10
+16|Gelson FERNANDES|Switzerland|TAVARES FERNANDES|Gelson Da Conceicao|G. FERNANDES|02.09.1986|MF|Eintracht Frankfurt (GER)|180|67|2
+17|Denis ZAKARIA|Switzerland|ZAKARIA LAKO LADO|Denis Lemi|ZAKARIA|20.11.1996|MF|Borussia Moenchengladbach (GER)|189|10|0
+18|Mario GAVRANOVIC|Switzerland|GAVRANOVIC|Mario|GAVRANOVIC|24.11.1989|FW|Dinamo Zagreb (CRO)|175|14|5
+19|Josip DRMIC|Switzerland|DRMIC|Josip|DRMIC|08.08.1992|FW|Borussia Moenchengladbach (GER)|184|29|9
+20|Johan DJOUROU|Switzerland|DJOUROU GBADJERE|Danon Issouf Johannes|DJOUROU|18.01.1987|DF|Antalyaspor (TUR)|192|74|2
+21|Roman BUERKI|Switzerland|BÜRKI|Roman|BÜRKI|14.11.1990|GK|Borussia Dortmund (GER)|188|9|0
+22|Fabian SCHAER|Switzerland|SCHÄR|Fabian Lukas|SCHÄR|20.12.1991|DF|Deportivo La Coruña (ESP)|186|39|7
+23|Xherdan SHAQIRI|Switzerland|SHAQIRI|Xherdan|SHAQIRI|10.10.1991|MF|Stoke (ENG)|169|70|20
+1|Farouk BEN MUSTAPHA|Tunisia|BEN MUSTAPHA|Farouk|BEN MUSTAPHA|01.07.1989|GK|Al Shabab (KSA)|192|14|0
+2|Syam BEN YOUSSEF|Tunisia|BEN YOUSSEF|Syam Habib|BEN YOUSSEF .S|31.03.1989|DF|Kasimpasa SK (TUR)|189|42|1
+3|Yohan BEN ALOUANE|Tunisia|BEN ALOUANE|Yohan|BEN ALOUANE|28.03.1987|DF|Leicester (ENG)|185|3|0
+4|Yassine MERIAH|Tunisia|MERIAH|Yassine|MERIAH|02.07.1993|DF|CS Sfaxien (TUN)|183|16|1
+5|Oussama HADDADI|Tunisia|HADDADI|Oussama|HADDADI|28.01.1992|DF|Dijon (FRA)|185|7|1
+6|Rami BEDOUI|Tunisia|BEDOUI|Rami|BEDOUI|19.01.1990|DF|ES du Sahel (TUN)|187|10|3
+7|Saifeddine KHAOUI|Tunisia|KHAOUI|Saifeddine|KHAOUI|27.04.1995|FW|Troyes (FRA)|180|4|0
+8|Fakhreddine BEN YOUSSEF|Tunisia|BEN YOUSSEF|Fakhreddine|BEN YOUSSEF .F|23.06.1991|FW|Al Ittifaq (KSA)|189|38|0
+9|Anice BADRI|Tunisia|BADRI|Anice|BADRI|18.09.1990|MF|Esperance (TUN)|178|9|2
+10|Wahbi KHAZRI|Tunisia|KHAZRI|Wahbi|KHAZRI|08.02.1991|FW|Rennes (FRA)|182|36|12
+11|Dylan BRONN|Tunisia|BRONN|Dylan Daniel Mahmoud|BRONN|19.06.1995|DF|AA Gent (BEL)|186|5|0
+12|Ali MAALOUL|Tunisia|MAALOUL|Ali|MAALOUL|01.01.1990|DF|Al Ahly Cairo (EGY)|170|46|8
+13|Ferjani SASSI|Tunisia|SASSI|Ferjani|SASSI|18.03.1992|MF|Al Nasr (KSA)|186|40|3
+14|Mohamed BEN AMOR|Tunisia|BEN AMOR|Mohamed Amine|BEN AMOR|03.05.1992|MF|Al Ahli (KSA)|180|26|2
+15|Ahmed KHALIL|Tunisia|KHALIL|Ahmed|KHALIL|21.12.1994|FW|Club Africain (TUN)|187|2|0
+16|Aymen MATHLOUTHI|Tunisia|MATHLOUTHI|Aymen|MATHLOUTHI|14.09.1984|GK|Al Batin Football Club (KSA)|182|71|0
+17|Ellyes SKHIRI|Tunisia|SKHIRI|Ellyes Joris|SKHIRI|10.05.1995|MF|Montpellier (FRA)|185|4|0
+18|Bassem SRARFI|Tunisia|SRARFI|Bassem|SRARFI|25.06.1997|FW|OGC Nice (FRA)|176|4|0
+19|Saber KHALIFA|Tunisia|KHALIFA|Saber|KHALIFA|14.10.1986|FW|Club Africain (TUN)|185|43|7
+20|Ghaylen CHAALELI|Tunisia|CHAALELI|Ghaylen|CHAALELI|28.02.1994|FW|Esperance (TUN)|179|6|1
+21|Hamdi NAGUEZ|Tunisia|NAGUEZ|Hamdi|NAGUEZ|28.10.1992|DF|Zamalek (EGY)|186|16|5
+22|Mouez HASSEN|Tunisia|HASSEN|Mouez|HASSEN|05.03.1995|GK|Chateauroux (FRA)|186|2|0
+23|Naim SLITI|Tunisia|SLITI|Naim|SLITI|27.07.1992|FW|Dijon (FRA)|173|18|3
+1|Fernando MUSLERA|Uruguay|MUSLERA MICOL|Nestor Fernando|F. MUSLERA|16.06.1986|GK|Galatasaray (TUR)|190|97|0
+2|Jose GIMENEZ|Uruguay|GIMENEZ DE VARGAS|José Maria|J.M. GIMENEZ|20.01.1995|DF|Atlético Madrid (ESP)|185|42|5
+3|Diego GODIN|Uruguay|GODIN LEAL|Diego Roberto|D. GODIN|16.02.1986|DF|Atlético Madrid (ESP)|185|116|8
+4|Guillermo VARELA|Uruguay|VARELA OLIVERA|Guillermo|G. VARELA|24.03.1993|DF|Peñarol (URU)|173|3|0
+5|Carlos SANCHEZ|Uruguay|SÁNCHEZ ARCOSA|Carlos Andrés|C. SANCHEZ|02.12.1984|MF|Monterrey (MEX)|171|35|1
+6|Rodrigo BENTANCUR|Uruguay|BENTANCUR COLMAN|Rodrigo|R. BENTANCUR|25.06.1997|MF|Juventus (ITA)|187|7|0
+7|Cristian RODRIGUEZ|Uruguay|RODRIGUEZ BAROTTI|Cristian Gabriel|C. RODRIGUEZ|30.09.1985|MF|Peñarol (URU)|178|105|11
+8|Nahitan NANDEZ|Uruguay|NANDEZ ACOSTA|Nahitan Michel|N. NANDEZ|28.12.1995|MF|Boca Juniors (ARG)|171|12|0
+9|Luis SUAREZ|Uruguay|SUAREZ DIAZ|Luis Alberto|L. SUAREZ|24.01.1987|FW|FC Barcelona (ESP)|182|98|51
+10|Giorgian DE ARRASCAETA|Uruguay|DE ARRASCAETA BENEDETTI|Giorgian Daniel|G. DE ARRASCAETA|01.06.1994|FW|Cruzeiro (BRA)|172|14|2
+11|Cristhian STUANI|Uruguay|STUANI CURBELO|Cristhian Ricardo|C. STUANI|12.10.1986|FW|Girona Futbol Club (ESP)|186|41|5
+12|Martin CAMPANA|Uruguay|CAMPAÑA DELGADO|Martín Nicolas|M. CAMPAÑA|29.05.1989|GK|Independiente (ARG)|184|1|0
+13|Gaston SILVA|Uruguay|SILVA PERDOMO|Gaston Alexis|G. SILVA|05.03.1994|DF|Independiente (ARG)|185|17|0
+14|Lucas TORREIRA|Uruguay|TORREIRA DI PASCUA|Lucas Sebastian|L. TORREIRA|11.02.1996|MF|Sampdoria (ITA)|168|3|0
+15|Matias VECINO|Uruguay|VECINO FALERO|Matias|M. VECINO|24.08.1991|MF|Internazionale (ITA)|189|22|1
+16|Maximiliano PEREIRA|Uruguay|PEREIRA PAEZ|Victorio Maximiliano|M. PEREIRA|08.06.1984|DF|FC Porto (POR)|173|125|3
+17|Diego LAXALT|Uruguay|LAXALT SUAREZ|Diego Sebastian|D. LAXALT|07.02.1993|MF|Genoa (ITA)|178|6|0
+18|Maximiliano GOMEZ|Uruguay|GÓMEZ GONZÁLEZ|Maximiliano|M. GOMEZ|14.08.1996|FW|Celta (ESP)|186|5|0
+19|Sebastian COATES|Uruguay|COATES NION|Sebastián|S. COATES|07.10.1990|DF|Sporting CP (POR)|196|30|1
+20|Jonathan URRETAVISCAYA|Uruguay|URRETAVISCAYA DA LUZ|Jonathan Matias|J. URRETAVISCAYA|19.03.1990|FW|Monterrey (MEX)|172|4|0
+21|Edinson CAVANI|Uruguay|CAVANI GOMEZ|Edinson Roberto|E. CAVANI|14.02.1987|FW|Paris Saint-Germain (FRA)|188|101|42
+22|Martin CACERES|Uruguay|CÁCERES SILVA|José Martín|M. CACERES|07.04.1987|DF|Lazio (ITA)|178|76|4
+23|Martin SILVA|Uruguay|SILVA LEITES|Martin Andres|M. SILVA|25.03.1983|GK|Clube de Regatas Vasco da Gama(BRA)|187|11|0

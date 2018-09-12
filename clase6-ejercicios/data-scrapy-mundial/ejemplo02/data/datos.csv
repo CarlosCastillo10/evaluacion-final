@@ -1,0 +1,769 @@
+Nombre|Edad|Rol|Numero|Pais
+Manuel NEUER|32|Arquero|1|Alemania
+Kevin TRAPP|28|Arquero|12|Alemania
+Marc-Andre TER STEGEN|26|Arquero|22|Alemania
+Marvin PLATTENHARDT|26|Defensor|2|Alemania
+Jonas HECTOR|28|Defensor|3|Alemania
+Matthias GINTER|24|Defensor|4|Alemania
+Mats HUMMELS|29|Defensor|5|Alemania
+Niklas SUELE|22|Defensor|15|Alemania
+Antonio RUEDIGER|25|Defensor|16|Alemania
+Jerome BOATENG|29|Defensor|17|Alemania
+Joshua KIMMICH|23|Defensor|18|Alemania
+Sami KHEDIRA|31|Mediocampista|6|Alemania
+Julian DRAXLER|24|Mediocampista|7|Alemania
+Toni KROOS|28|Mediocampista|8|Alemania
+Mesut OEZIL|29|Mediocampista|10|Alemania
+Thomas MUELLER|28|Mediocampista|13|Alemania
+Leon GORETZKA|23|Mediocampista|14|Alemania
+Sebastian RUDY|28|Mediocampista|19|Alemania
+Julian BRANDT|22|Mediocampista|20|Alemania
+Ilkay GUENDOGAN|27|Mediocampista|21|Alemania
+Timo WERNER|22|Delantero|9|Alemania
+Marco REUS|29|Delantero|11|Alemania
+Mario GOMEZ|33|Delantero|23|Alemania
+LÖW Joachim|58|Entrenador|0|Alemania
+Dominik LIVAKOVIC|23|Arquero|1|Croacia
+Lovre KALINIC|28|Arquero|12|Croacia
+Danijel SUBASIC|33|Arquero|23|Croacia
+Sime VRSALJKO|26|Defensor|2|Croacia
+Ivan STRINIC|31|Defensor|3|Croacia
+Vedran CORLUKA|32|Defensor|5|Croacia
+Dejan LOVREN|29|Defensor|6|Croacia
+Tin JEDVAJ|22|Defensor|13|Croacia
+Duje CALETA-CAR|21|Defensor|15|Croacia
+Domagoj VIDA|29|Defensor|21|Croacia
+Josip PIVARIC|29|Defensor|22|Croacia
+Ivan RAKITIC|30|Mediocampista|7|Croacia
+Mateo KOVACIC|24|Mediocampista|8|Croacia
+Luka MODRIC|32|Mediocampista|10|Croacia
+Marcelo BROZOVIC|25|Mediocampista|11|Croacia
+Filip BRADARIC|26|Mediocampista|14|Croacia
+Milan BADELJ|29|Mediocampista|19|Croacia
+Ivan PERISIC|29|Delantero|4|Croacia
+Andrej KRAMARIC|27|Delantero|9|Croacia
+Nikola KALINIC|30|Delantero|16|Croacia
+Mario MANDZUKIC|32|Delantero|17|Croacia
+Ante REBIC|24|Delantero|18|Croacia
+Marko PJACA|23|Delantero|20|Croacia
+DALIC Zlatko|51|Entrenador|0|Croacia
+David OSPINA|29|Arquero|1|Colombia
+Camilo VARGAS|29|Arquero|12|Colombia
+Jose CUADRADO|33|Arquero|22|Colombia
+Cristian ZAPATA|31|Defensor|2|Colombia
+Oscar MURILLO|30|Defensor|3|Colombia
+Santiago ARIAS|26|Defensor|4|Colombia
+Yerry MINA|23|Defensor|13|Colombia
+Johan MOJICA|25|Defensor|17|Colombia
+Farid DIAZ|35|Defensor|18|Colombia
+Davinson SANCHEZ|22|Defensor|23|Colombia
+Wilmar BARRIOS|24|Mediocampista|5|Colombia
+Carlos SANCHEZ|32|Mediocampista|6|Colombia
+Abel AGUILAR|33|Mediocampista|8|Colombia
+James RODRIGUEZ|27|Mediocampista|10|Colombia
+Juan CUADRADO|30|Mediocampista|11|Colombia
+Mateus URIBE|27|Mediocampista|15|Colombia
+Jefferson  LERMA|23|Mediocampista|16|Colombia
+Juan QUINTERO|25|Mediocampista|20|Colombia
+Carlos BACCA|31|Delantero|7|Colombia
+Radamel FALCAO|32|Delantero|9|Colombia
+Luis MURIEL|27|Delantero|14|Colombia
+Miguel BORJA|25|Delantero|19|Colombia
+Jose IZQUIERDO|26|Delantero|21|Colombia
+PEKERMAN Jose|68|Entrenador|0|Colombia
+Kasper  SCHMEICHEL|31|Arquero|1|Dinamarca
+Jonas LOSSL|29|Arquero|16|Dinamarca
+Frederik RONNOW|26|Arquero|22|Dinamarca
+Jannik VESTERGAARD|26|Defensor|3|Dinamarca
+Simon KJAER|29|Defensor|4|Dinamarca
+Jonas KNUDSEN|25|Defensor|5|Dinamarca
+Andreas CHRISTENSEN|22|Defensor|6|Dinamarca
+Mathias  JORGENSEN|28|Defensor|13|Dinamarca
+Henrik DALSGAARD|29|Defensor|14|Dinamarca
+Jens Stryger LARSEN|27|Defensor|17|Dinamarca
+Michael KROHN-DEHLI|35|Mediocampista|2|Dinamarca
+William KVIST|33|Mediocampista|7|Dinamarca
+Thomas DELANEY|26|Mediocampista|8|Dinamarca
+Christian ERIKSEN|26|Mediocampista|10|Dinamarca
+Lukas LERAGER|25|Mediocampista|18|Dinamarca
+Lasse SCHONE|32|Mediocampista|19|Dinamarca
+Nicolai JORGENSEN|27|Delantero|9|Dinamarca
+Martin BRAITHWAITE|27|Delantero|11|Dinamarca
+Kasper DOLBERG|20|Delantero|12|Dinamarca
+Viktor FISCHER|24|Delantero|15|Dinamarca
+Yussuf Yurary POULSEN|24|Delantero|20|Dinamarca
+Andreas CORNELIUS|25|Delantero|21|Dinamarca
+Pione SISTO|23|Delantero|23|Dinamarca
+HAREIDE Age|64|Entrenador|0|Dinamarca
+ABDULLAH ALMUAIOUF|31|Arquero|1|Arabia Saudí
+YASSER ALMOSAILEM|34|Arquero|21|Arabia Saudí
+MOHAMMED ALOWAIS|26|Arquero|22|Arabia Saudí
+MANSOUR ALHARBI|30|Defensor|2|Arabia Saudí
+OSAMA HAWSAWI|34|Defensor|3|Arabia Saudí
+ALI ALBULAYHI|28|Defensor|4|Arabia Saudí
+OMAR HAWSAWI|32|Defensor|5|Arabia Saudí
+MOHAMMED ALBURAYK|25|Defensor|6|Arabia Saudí
+YASSER ALSHAHRANI|26|Defensor|13|Arabia Saudí
+MOTAZ HAWSAWI|26|Defensor|23|Arabia Saudí
+SALMAN ALFARAJ|29|Mediocampista|7|Arabia Saudí
+YAHIA ALSHEHRI|28|Mediocampista|8|Arabia Saudí
+HATAN BAHBRI|26|Mediocampista|9|Arabia Saudí
+ABDULMALEK ALKHAIBRI|32|Mediocampista|11|Arabia Saudí
+MOHAMED KANNO|23|Mediocampista|12|Arabia Saudí
+ABDULLAH OTAYF|26|Mediocampista|14|Arabia Saudí
+ABDULLAH ALKHAIBARI|21|Mediocampista|15|Arabia Saudí
+HUSSAIN ALMOQAHWI|30|Mediocampista|16|Arabia Saudí
+TAISEER ALJASSAM|34|Mediocampista|17|Arabia Saudí
+SALEM ALDAWSARI|26|Mediocampista|18|Arabia Saudí
+MOHAMMED ALSAHLAWI|31|Delantero|10|Arabia Saudí
+FAHAD ALMUWALLAD|23|Delantero|19|Arabia Saudí
+MUHANNAD ASIRI|31|Delantero|20|Arabia Saudí
+PIZZI Juan Antonio|50|Entrenador|0|Arabia Saudí
+Nahuel GUZMAN|32|Arquero|1|Argentina
+Franco ARMANI|31|Arquero|12|Argentina
+Wilfredo CABALLERO|36|Arquero|23|Argentina
+Gabriel MERCADO|31|Defensor|2|Argentina
+Nicolas TAGLIAFICO|25|Defensor|3|Argentina
+Cristian ANSALDI|31|Defensor|4|Argentina
+Federico FAZIO|31|Defensor|6|Argentina
+Marcos ACUNA|26|Defensor|8|Argentina
+Javier MASCHERANO|34|Defensor|14|Argentina
+Marcos ROJO|28|Defensor|16|Argentina
+Nicolas OTAMENDI|30|Defensor|17|Argentina
+Eduardo SALVIO|28|Defensor|18|Argentina
+Lucas BIGLIA|32|Mediocampista|5|Argentina
+Ever BANEGA|30|Mediocampista|7|Argentina
+Angel DI MARIA|30|Mediocampista|11|Argentina
+Maximiliano MEZA|25|Mediocampista|13|Argentina
+Enzo PEREZ|32|Mediocampista|15|Argentina
+Giovani LO CELSO|22|Mediocampista|20|Argentina
+Cristian PAVON|22|Mediocampista|22|Argentina
+Gonzalo HIGUAIN|30|Delantero|9|Argentina
+Lionel MESSI|31|Delantero|10|Argentina
+Sergio AGUERO|30|Delantero|19|Argentina
+Paulo DYBALA|24|Delantero|21|Argentina
+SAMPAOLI Jorge|58|Entrenador|0|Argentina
+Mathew RYAN|26|Arquero|1|Australia
+Brad JONES|36|Arquero|12|Australia
+Danny VUKOVIC|33|Arquero|18|Australia
+Milos DEGENEK|24|Defensor|2|Australia
+James MEREDITH|30|Defensor|3|Australia
+Mark MILLIGAN|33|Defensor|5|Australia
+Matthew JURMAN|28|Defensor|6|Australia
+Aziz BEHICH|27|Defensor|16|Australia
+Joshua RISDON|26|Defensor|19|Australia
+Trent SAINSBURY|26|Defensor|20|Australia
+Massimo LUONGO|25|Mediocampista|8|Australia
+Aaron MOOY|27|Mediocampista|13|Australia
+Mile JEDINAK|34|Mediocampista|15|Australia
+Jackson IRVINE|25|Mediocampista|22|Australia
+Tom ROGIC|25|Mediocampista|23|Australia
+Tim CAHILL|38|Delantero|4|Australia
+Mathew LECKIE|27|Delantero|7|Australia
+Tomi JURIC|27|Delantero|9|Australia
+Robbie KRUSE|29|Delantero|10|Australia
+Andrew NABBOUT|25|Delantero|11|Australia
+Jamie MacLAREN|25|Delantero|14|Australia
+Daniel ARZANI|19|Delantero|17|Australia
+Dimitrios PETRATOS|25|Delantero|21|Australia
+VAN MARWIJK Bert|66|Entrenador|0|Australia
+Keylor NAVAS|31|Arquero|1|Costa Rica
+Patrick PEMBERTON|36|Arquero|18|Costa Rica
+Leonel MOREIRA|28|Arquero|23|Costa Rica
+Johnny ACOSTA|35|Defensor|2|Costa Rica
+Giancarlo GONZALEZ|30|Defensor|3|Costa Rica
+Ian SMITH|20|Defensor|4|Costa Rica
+Oscar DUARTE|29|Defensor|6|Costa Rica
+Bryan OVIEDO|28|Defensor|8|Costa Rica
+Francisco CALVO|26|Defensor|15|Costa Rica
+Cristian GAMBOA|28|Defensor|16|Costa Rica
+Kendall WASTON|30|Defensor|19|Costa Rica
+Kenner GUTIERREZ|29|Defensor|22|Costa Rica
+Celso BORGES|30|Mediocampista|5|Costa Rica
+Christian BOLANOS|34|Mediocampista|7|Costa Rica
+Daniel COLINDRES|33|Mediocampista|9|Costa Rica
+Bryan RUIZ|32|Mediocampista|10|Costa Rica
+Rodney WALLACE|30|Mediocampista|13|Costa Rica
+Randall AZOFEIFA|33|Mediocampista|14|Costa Rica
+Yeltsin TEJEDA|26|Mediocampista|17|Costa Rica
+David GUZMAN|28|Mediocampista|20|Costa Rica
+Johan VENEGAS|29|Delantero|11|Costa Rica
+Joel CAMPBELL|26|Delantero|12|Costa Rica
+Marcos URENA|28|Delantero|21|Costa Rica
+RAMIREZ Oscar|53|Entrenador|0|Costa Rica
+ESSAM ELHADARY|45|Arquero|1|Egipto
+SHERIF EKRAMY|35|Arquero|16|Egipto
+MOHAMED ELSHENAWY|29|Arquero|23|Egipto
+ALI GABR|29|Defensor|2|Egipto
+AHMED ELMOHAMADY|30|Defensor|3|Egipto
+AHMED HEGAZY|27|Defensor|6|Egipto
+AHMED FATHI|33|Defensor|7|Egipto
+AYMAN ASHRAF|27|Defensor|12|Egipto
+MOHAMED ABDELSHAFY|33|Defensor|13|Egipto
+MAHMOUD HAMDY|23|Defensor|15|Egipto
+SAMIR SAAD|29|Defensor|20|Egipto
+OMAR GABER|26|Mediocampista|4|Egipto
+SAM MORSY|26|Mediocampista|5|Egipto
+TAREK HAMED|29|Mediocampista|8|Egipto
+MOHAMED ELNENY|26|Mediocampista|17|Egipto
+ABDALLA SAID|33|Mediocampista|19|Egipto
+TREZIGUET|23|Mediocampista|21|Egipto
+MARWAN MOHSEN|29|Delantero|9|Egipto
+MOHAMED SALAH|26|Delantero|10|Egipto
+KAHRABA|24|Delantero|11|Egipto
+RAMADAN SOBHY|21|Delantero|14|Egipto
+SHIKABALA|32|Delantero|18|Egipto
+AMR WARDA|24|Delantero|22|Egipto
+CUPER Hector|62|Entrenador|0|Egipto
+David DE GEA|27|Arquero|1|España
+Kepa ARRIZABALAGA|23|Arquero|13|España
+Pepe REINA|35|Arquero|23|España
+Dani CARVAJAL|26|Defensor|2|España
+Gerard PIQUE|31|Defensor|3|España
+NACHO|28|Defensor|4|España
+Alvaro ODRIOZOLA|22|Defensor|12|España
+Cesar AZPILICUETA|28|Defensor|14|España
+Sergio RAMOS|32|Defensor|15|España
+Nacho MONREAL|32|Defensor|16|España
+Jordi ALBA|29|Defensor|18|España
+Sergio BUSQUETS|30|Mediocampista|5|España
+Andres INIESTA|34|Mediocampista|6|España
+SAUL|23|Mediocampista|7|España
+KOKE|26|Mediocampista|8|España
+THIAGO|27|Mediocampista|10|España
+Marco ASENSIO|22|Mediocampista|20|España
+ISCO|26|Mediocampista|22|España
+RODRIGO|27|Delantero|9|España
+Lucas VAZQUEZ|27|Delantero|11|España
+Iago ASPAS|31|Delantero|17|España
+Diego COSTA|29|Delantero|19|España
+David SILVA|32|Delantero|21|España
+HIERRO Fernando|50|Entrenador|0|España
+Thibaut COURTOIS|26|Arquero|1|Bélgica
+Simon MIGNOLET|30|Arquero|12|Bélgica
+Koen CASTEELS|26|Arquero|13|Bélgica
+Toby ALDERWEIRELD|29|Defensor|2|Bélgica
+Thomas VERMAELEN|32|Defensor|3|Bélgica
+Vincent KOMPANY|32|Defensor|4|Bélgica
+Jan VERTONGHEN|31|Defensor|5|Bélgica
+Thomas MEUNIER|26|Defensor|15|Bélgica
+Dedryck BOYATA|27|Defensor|20|Bélgica
+Leander DENDONCKER|23|Defensor|23|Bélgica
+Axel WITSEL|29|Mediocampista|6|Bélgica
+Kevin DE BRUYNE|27|Mediocampista|7|Bélgica
+Marouane FELLAINI|30|Mediocampista|8|Bélgica
+Yannick CARRASCO|24|Mediocampista|11|Bélgica
+Thorgan HAZARD|25|Mediocampista|16|Bélgica
+Youri TIELEMANS|21|Mediocampista|17|Bélgica
+Moussa DEMBELE|31|Mediocampista|19|Bélgica
+Nacer CHADLI|29|Mediocampista|22|Bélgica
+Romelu LUKAKU|25|Delantero|9|Bélgica
+Eden HAZARD|27|Delantero|10|Bélgica
+Dries MERTENS|31|Delantero|14|Bélgica
+Adnan JANUZAJ|23|Delantero|18|Bélgica
+Michy BATSHUAYI|24|Delantero|21|Bélgica
+MARTINEZ Roberto|45|Entrenador|0|Bélgica
+ALISSON|25|Arquero|1|Brasil
+CASSIO|31|Arquero|16|Brasil
+EDERSON|24|Arquero|23|Brasil
+THIAGO SILVA|33|Defensor|2|Brasil
+MIRANDA|33|Defensor|3|Brasil
+PEDRO GEROMEL|32|Defensor|4|Brasil
+FILIPE LUIS|32|Defensor|6|Brasil
+MARCELO|30|Defensor|12|Brasil
+MARQUINHOS|24|Defensor|13|Brasil
+DANILO|27|Defensor|14|Brasil
+FAGNER|29|Defensor|22|Brasil
+CASEMIRO|26|Mediocampista|5|Brasil
+RENATO AUGUSTO|30|Mediocampista|8|Brasil
+PHILIPPE COUTINHO|26|Mediocampista|11|Brasil
+PAULINHO|30|Mediocampista|15|Brasil
+FERNANDINHO|33|Mediocampista|17|Brasil
+FRED|25|Mediocampista|18|Brasil
+WILLIAN|29|Mediocampista|19|Brasil
+DOUGLAS COSTA|27|Delantero|7|Brasil
+GABRIEL JESUS|21|Delantero|9|Brasil
+NEYMAR|26|Delantero|10|Brasil
+ROBERTO FIRMINO|26|Delantero|20|Brasil
+TAISON|30|Delantero|21|Brasil
+TITE|57|Entrenador|0|Brasil
+Hugo LLORIS|31|Arquero|1|Francia
+Steve MANDANDA|33|Arquero|16|Francia
+Alphonse AREOLA|25|Arquero|23|Francia
+Benjamin PAVARD|22|Defensor|2|Francia
+Presnel KIMPEMBE|22|Defensor|3|Francia
+Raphael VARANE|25|Defensor|4|Francia
+Samuel UMTITI|24|Defensor|5|Francia
+Adil RAMI|32|Defensor|17|Francia
+Djibril SIDIBE|26|Defensor|19|Francia
+Lucas HERNANDEZ|22|Defensor|21|Francia
+Benjamin MENDY|24|Defensor|22|Francia
+Paul POGBA|25|Mediocampista|6|Francia
+Corentin TOLISSO|24|Mediocampista|12|Francia
+Ngolo KANTE|27|Mediocampista|13|Francia
+Blaise MATUIDI|31|Mediocampista|14|Francia
+Steven NZONZI|29|Mediocampista|15|Francia
+Antoine GRIEZMANN|27|Delantero|7|Francia
+Thomas LEMAR|22|Delantero|8|Francia
+Olivier GIROUD|31|Delantero|9|Francia
+Kylian MBAPPE|19|Delantero|10|Francia
+Ousmane DEMBELE|21|Delantero|11|Francia
+Nabil FEKIR|25|Delantero|18|Francia
+Florian THAUVIN|25|Delantero|20|Francia
+DESCHAMPS Didier|49|Entrenador|0|Francia
+Hannes HALLDORSSON|34|Arquero|1|Islandia
+Frederik SCHRAM|23|Arquero|12|Islandia
+Runar RUNARSSON|23|Arquero|13|Islandia
+Birkir SAEVARSSON|33|Defensor|2|Islandia
+Sverrir INGASON|25|Defensor|5|Islandia
+Ragnar SIGURDSSON|32|Defensor|6|Islandia
+Kari ARNASON|35|Defensor|14|Islandia
+Holmar EYJOLFSSON|28|Defensor|15|Islandia
+Hordur MAGNUSSON|25|Defensor|18|Islandia
+Ari SKULASON|31|Defensor|23|Islandia
+Samuel FRIDJONSSON|22|Mediocampista|3|Islandia
+Albert GUDMUNDSSON|21|Mediocampista|4|Islandia
+Johann GUDMUNDSSON|27|Mediocampista|7|Islandia
+Birkir BJARNASON|30|Mediocampista|8|Islandia
+Gylfi SIGURDSSON|28|Mediocampista|10|Islandia
+Olafur SKULASON|35|Mediocampista|16|Islandia
+Aron GUNNARSSON|29|Mediocampista|17|Islandia
+Rurik GISLASON|30|Mediocampista|19|Islandia
+Emil HALLFREDSSON|34|Mediocampista|20|Islandia
+Arnor TRAUSTASON|25|Mediocampista|21|Islandia
+Bjorn SIGURDARSON|27|Delantero|9|Islandia
+Alfred FINNBOGASON|29|Delantero|11|Islandia
+Jon BODVARSSON|26|Delantero|22|Islandia
+HALLGRIMSSON Heimir|51|Entrenador|0|Islandia
+Jordan PICKFORD|24|Arquero|1|Inglaterra
+Jack BUTLAND|25|Arquero|13|Inglaterra
+Nick POPE|26|Arquero|23|Inglaterra
+Kyle WALKER|28|Defensor|2|Inglaterra
+Danny ROSE|28|Defensor|3|Inglaterra
+John STONES|24|Defensor|5|Inglaterra
+Harry MAGUIRE|25|Defensor|6|Inglaterra
+Kieran TRIPPIER|27|Defensor|12|Inglaterra
+Gary CAHILL|32|Defensor|15|Inglaterra
+Phil JONES|26|Defensor|16|Inglaterra
+Fabian DELPH|28|Defensor|17|Inglaterra
+Ashley  YOUNG|33|Defensor|18|Inglaterra
+Trent ALEXANDER-ARNOLD|19|Defensor|22|Inglaterra
+Eric  DIER|24|Mediocampista|4|Inglaterra
+Jesse  LINGARD|25|Mediocampista|7|Inglaterra
+Jordan HENDERSON|28|Mediocampista|8|Inglaterra
+Dele ALLI|22|Mediocampista|20|Inglaterra
+Ruben LOFTUS-CHEEK|22|Mediocampista|21|Inglaterra
+Harry KANE|25|Delantero|9|Inglaterra
+Raheem STERLING|23|Delantero|10|Inglaterra
+Jamie VARDY|31|Delantero|11|Inglaterra
+Danny WELBECK|27|Delantero|14|Inglaterra
+Marcus RASHFORD|20|Delantero|19|Inglaterra
+SOUTHGATE Gareth|47|Entrenador|0|Inglaterra
+Eiji KAWASHIMA|35|Arquero|1|Japón
+Masaaki HIGASHIGUCHI|32|Arquero|12|Japón
+Kosuke NAKAMURA|23|Arquero|23|Japón
+Naomichi UEDA|23|Defensor|2|Japón
+Gen SHOJI|25|Defensor|3|Japón
+Yuto NAGATOMO|31|Defensor|5|Japón
+Wataru ENDO|25|Defensor|6|Japón
+Hiroki SAKAI|28|Defensor|19|Japón
+Tomoaki MAKINO|31|Defensor|20|Japón
+Gotoku SAKAI|27|Defensor|21|Japón
+Maya YOSHIDA|29|Defensor|22|Japón
+Keisuke HONDA|32|Mediocampista|4|Japón
+Gaku SHIBASAKI|26|Mediocampista|7|Japón
+Genki HARAGUCHI|27|Mediocampista|8|Japón
+Shinji KAGAWA|29|Mediocampista|10|Japón
+Takashi USAMI|26|Mediocampista|11|Japón
+Takashi INUI|30|Mediocampista|14|Japón
+Hotaru YAMAGUCHI|27|Mediocampista|16|Japón
+Makoto HASEBE|34|Mediocampista|17|Japón
+Ryota OHSHIMA|25|Mediocampista|18|Japón
+Shinji OKAZAKI|32|Delantero|9|Japón
+Yoshinori MUTO|26|Delantero|13|Japón
+Yuya OSAKO|28|Delantero|15|Japón
+NISHINO Akira|63|Entrenador|0|Japón
+Yassine BOUNOU|27|Arquero|1|Marruecos
+Monir EL KAJOUI|29|Arquero|12|Marruecos
+Ahmed TAGNAOUTI|22|Arquero|22|Marruecos
+Achraf HAKIMI|19|Defensor|2|Marruecos
+Hamza MENDYL|20|Defensor|3|Marruecos
+Manuel DA COSTA|32|Defensor|4|Marruecos
+Mehdi BENATIA|31|Defensor|5|Marruecos
+Ghanem SAISS|28|Defensor|6|Marruecos
+Nabil DIRAR|32|Defensor|17|Marruecos
+Hakim ZIYACH|25|Mediocampista|7|Marruecos
+Karim EL AHMADI|33|Mediocampista|8|Marruecos
+Younes BELHANDA|28|Mediocampista|10|Marruecos
+Faycal FAJR|30|Mediocampista|11|Marruecos
+Mbark BOUSSOUFA|33|Mediocampista|14|Marruecos
+Youssef AIT BENNASSER|22|Mediocampista|15|Marruecos
+Noureddine AMRABAT|31|Mediocampista|16|Marruecos
+Amine HARIT|21|Mediocampista|18|Marruecos
+Sofyan AMRABAT|21|Mediocampista|21|Marruecos
+Mehdi CARCELA|29|Mediocampista|23|Marruecos
+Ayoub EL KAABI|25|Delantero|9|Marruecos
+Khalid BOUTAIB|31|Delantero|13|Marruecos
+Youssef EN NESYRI|21|Delantero|19|Marruecos
+Aziz BOUHADDOUZ|31|Delantero|20|Marruecos
+RENARD Herve|49|Entrenador|0|Marruecos
+Jose CORONA|37|Arquero|1|México
+Alfredo TALAVERA|35|Arquero|12|México
+Guillermo OCHOA|33|Arquero|13|México
+Hugo AYALA|31|Defensor|2|México
+Carlos SALCEDO|24|Defensor|3|México
+Rafael MARQUEZ|39|Defensor|4|México
+Hector MORENO|30|Defensor|15|México
+Hector HERRERA|28|Defensor|16|México
+Edson ALVAREZ|20|Defensor|21|México
+Erick GUTIERREZ|23|Mediocampista|5|México
+Jonathan DOS SANTOS|28|Mediocampista|6|México
+Miguel LAYUN|30|Mediocampista|7|México
+Giovani DOS SANTOS|29|Mediocampista|10|México
+Jesus CORONA|25|Mediocampista|17|México
+Andres GUARDADO|31|Mediocampista|18|México
+Javier AQUINO|28|Mediocampista|20|México
+Jesus GALLARDO|23|Mediocampista|23|México
+Marco FABIAN|29|Delantero|8|México
+Raul JIMENEZ|27|Delantero|9|México
+Carlos VELA|29|Delantero|11|México
+Javier HERNANDEZ|30|Delantero|14|México
+Oribe PERALTA|34|Delantero|19|México
+Hirving  LOZANO|23|Delantero|22|México
+Juan CARLOS OSORIO|57|Entrenador|0|México
+Ikechukwu EZENWA|29|Arquero|1|Nigeria
+Daniel AKPEYI|32|Arquero|16|Nigeria
+Francis UZOHO|19|Arquero|23|Nigeria
+Bryan IDOWU|26|Defensor|2|Nigeria
+Elderson ECHIEJILE|30|Defensor|3|Nigeria
+William EKONG|24|Defensor|5|Nigeria
+Leon BALOGUN|30|Defensor|6|Nigeria
+Abdullahi SHEHU|25|Defensor|12|Nigeria
+Chidozie AWAZIEM|21|Defensor|20|Nigeria
+Tyronne EBUEHI|22|Defensor|21|Nigeria
+Kenneth OMERUO|24|Defensor|22|Nigeria
+Wilfred NDIDI|21|Mediocampista|4|Nigeria
+Oghenekaro ETEBO|22|Mediocampista|8|Nigeria
+John Obi MIKEL|31|Mediocampista|10|Nigeria
+Joel OBI|27|Mediocampista|15|Nigeria
+Ogenyi ONAZI|25|Mediocampista|17|Nigeria
+John OGU|30|Mediocampista|19|Nigeria
+Ahmed MUSA|25|Delantero|7|Nigeria
+Odion IGHALO|29|Delantero|9|Nigeria
+Victor MOSES|27|Delantero|11|Nigeria
+Simeon NWANKWO|26|Delantero|13|Nigeria
+Kelechi IHEANACHO|22|Delantero|14|Nigeria
+Alex IWOBI|22|Delantero|18|Nigeria
+ROHR Gernot|65|Entrenador|0|Nigeria
+Jaime PENEDO|36|Arquero|1|Panamá
+Jose CALDERON|32|Arquero|12|Panamá
+Alex RODRIGUEZ|28|Arquero|22|Panamá
+Michael MURILLO|22|Defensor|2|Panamá
+Harold CUMMINGS|26|Defensor|3|Panamá
+Fidel ESCOBAR|23|Defensor|4|Panamá
+Roman TORRES|32|Defensor|5|Panamá
+Adolfo MACHADO|33|Defensor|13|Panamá
+Eric DAVIS|27|Defensor|15|Panamá
+Luis OVALLE|29|Defensor|17|Panamá
+Felipe BALOY|37|Defensor|23|Panamá
+Gabriel GOMEZ|34|Mediocampista|6|Panamá
+Edgar BARCENAS|24|Mediocampista|8|Panamá
+Armando COOPER|30|Mediocampista|11|Panamá
+Valentin PIMENTEL|27|Mediocampista|14|Panamá
+Ricardo AVILA|21|Mediocampista|19|Panamá
+Anibal GODOY|28|Mediocampista|20|Panamá
+Jose Luis RODRIGUEZ|20|Mediocampista|21|Panamá
+Blas PEREZ|37|Delantero|7|Panamá
+Gabriel TORRES|29|Delantero|9|Panamá
+Ismael DIAZ|21|Delantero|10|Panamá
+Abdiel ARROYO|24|Delantero|16|Panamá
+Luis TEJADA|36|Delantero|18|Panamá
+GOMEZ Hernan|62|Entrenador|0|Panamá
+Wojciech SZCZESNY|28|Arquero|1|Polonia
+Bartosz BIALKOWSKI|31|Arquero|12|Polonia
+Lukasz FABIANSKI|33|Arquero|22|Polonia
+Michal PAZDAN|30|Defensor|2|Polonia
+Artur JEDRZEJCZYK|30|Defensor|3|Polonia
+Thiago CIONEK|32|Defensor|4|Polonia
+Jan BEDNAREK|22|Defensor|5|Polonia
+Kamil GLIK|30|Defensor|15|Polonia
+Bartosz BERESZYNSKI|26|Defensor|18|Polonia
+Lukasz PISZCZEK|33|Defensor|20|Polonia
+Jacek GORALSKI|25|Mediocampista|6|Polonia
+Karol LINETTY|23|Mediocampista|8|Polonia
+Grzegorz KRYCHOWIAK|28|Mediocampista|10|Polonia
+Kamil GROSICKI|30|Mediocampista|11|Polonia
+Maciej RYBUS|28|Mediocampista|13|Polonia
+Jakub BLASZCZYKOWSKI|32|Mediocampista|16|Polonia
+Slawomir PESZKO|33|Mediocampista|17|Polonia
+Piotr ZIELINSKI|24|Mediocampista|19|Polonia
+Rafal KURZAWA|25|Mediocampista|21|Polonia
+Arkadiusz MILIK|24|Delantero|7|Polonia
+Robert LEWANDOWSKI|29|Delantero|9|Polonia
+Lukasz TEODORCZYK|27|Delantero|14|Polonia
+Dawid KOWNACKI|21|Delantero|23|Polonia
+NAWALKA Adam|60|Entrenador|0|Polonia
+RUI PATRICIO|30|Arquero|1|Portugal
+ANTHONY LOPES|27|Arquero|12|Portugal
+BETO|36|Arquero|22|Portugal
+BRUNO ALVES|36|Defensor|2|Portugal
+PEPE|35|Defensor|3|Portugal
+RAPHAEL GUERREIRO|24|Defensor|5|Portugal
+JOSE FONTE|34|Defensor|6|Portugal
+RUBEN DIAS|21|Defensor|13|Portugal
+RICARDO|24|Defensor|15|Portugal
+MARIO RUI|27|Defensor|19|Portugal
+CEDRIC|26|Defensor|21|Portugal
+MANUEL FERNANDES|32|Mediocampista|4|Portugal
+JOAO MOUTINHO|31|Mediocampista|8|Portugal
+JOAO MARIO|25|Mediocampista|10|Portugal
+BERNARDO SILVA|23|Mediocampista|11|Portugal
+WILLIAM|26|Mediocampista|14|Portugal
+BRUNO FERNANDES|23|Mediocampista|16|Portugal
+ADRIEN SILVA|29|Mediocampista|23|Portugal
+CRISTIANO RONALDO|33|Delantero|7|Portugal
+ANDRE SILVA|22|Delantero|9|Portugal
+GONCALO GUEDES|21|Delantero|17|Portugal
+GELSON MARTINS|23|Delantero|18|Portugal
+RICARDO QUARESMA|34|Delantero|20|Portugal
+SANTOS Fernando|63|Entrenador|0|Portugal
+Pedro GALLESE|28|Arquero|1|Perú
+Carlos CACEDA|26|Arquero|12|Perú
+Jose CARVALLO|32|Arquero|21|Perú
+Alberto RODRIGUEZ|34|Defensor|2|Perú
+Aldo CORZO|29|Defensor|3|Perú
+Anderson SANTAMARIA|26|Defensor|4|Perú
+Miguel ARAUJO|23|Defensor|5|Perú
+Miguel TRAUCO|25|Defensor|6|Perú
+Christian RAMOS|29|Defensor|15|Perú
+Luis ADVINCULA|28|Defensor|17|Perú
+Nilson LOYOLA|23|Defensor|22|Perú
+Paolo HURTADO|28|Mediocampista|7|Perú
+Christian CUEVA|26|Mediocampista|8|Perú
+Renato TAPIA|23|Mediocampista|13|Perú
+Andy POLO|23|Mediocampista|14|Perú
+Wilder CARTAGENA|23|Mediocampista|16|Perú
+Yoshimar YOTUN|28|Mediocampista|19|Perú
+Pedro AQUINO|23|Mediocampista|23|Perú
+Paolo GUERRERO|34|Delantero|9|Perú
+Jefferson FARFAN|33|Delantero|10|Perú
+Raul RUIDIAZ|28|Delantero|11|Perú
+Andre CARRILLO|27|Delantero|18|Perú
+Edison FLORES|24|Delantero|20|Perú
+GARECA Ricardo|60|Entrenador|0|Perú
+KIM Seunggyu|27|Arquero|1|República de Corea
+KIM Jinhyeon|31|Arquero|21|República de Corea
+JO Hyeonwoo|26|Arquero|23|República de Corea
+LEE Yong|31|Defensor|2|República de Corea
+JUNG Seunghyun|24|Defensor|3|República de Corea
+OH Bansuk|30|Defensor|4|República de Corea
+YUN Youngsun|29|Defensor|5|República de Corea
+PARK Jooho|31|Defensor|6|República de Corea
+KIM Minwoo|28|Defensor|12|República de Corea
+HONG Chul|27|Defensor|14|República de Corea
+KIM Younggwon|28|Defensor|19|República de Corea
+JANG Hyunsoo|26|Defensor|20|República de Corea
+GO Yohan|30|Defensor|22|República de Corea
+JU Sejong|27|Mediocampista|8|República de Corea
+LEE Seungwoo|20|Mediocampista|10|República de Corea
+KOO Jacheol|29|Mediocampista|13|República de Corea
+JUNG Wooyoung|28|Mediocampista|15|República de Corea
+KI Sungyueng|29|Mediocampista|16|República de Corea
+LEE Jaesung|25|Mediocampista|17|República de Corea
+MOON Seonmin|26|Mediocampista|18|República de Corea
+SON Heungmin|26|Delantero|7|República de Corea
+KIM Shinwook|30|Delantero|9|República de Corea
+HWANG Heechan|22|Delantero|11|República de Corea
+SHIN Taeyong|47|Entrenador|0|República de Corea
+Ali BEIRANVAND|25|Arquero|1|RI de Irán
+Rashid MAZAHERI|29|Arquero|12|RI de Irán
+Amir ABEDZADEH|25|Arquero|22|RI de Irán
+Ehsan HAJI SAFI|28|Defensor|3|RI de Irán
+Roozbeh CHESHMI|25|Defensor|4|RI de Irán
+Milad MOHAMMADI|24|Defensor|5|RI de Irán
+Morteza POURALIGANJI|26|Defensor|8|RI de Irán
+Mohammad Reza KHANZADEH|27|Defensor|13|RI de Irán
+Pejman MONTAZERI|34|Defensor|15|RI de Irán
+Majid HOSSEINI|22|Defensor|19|RI de Irán
+Ramin REZAEIAN|28|Defensor|23|RI de Irán
+Mahdi TORABI|23|Mediocampista|2|RI de Irán
+Saeid EZATOLAHI|21|Mediocampista|6|RI de Irán
+Masoud SHOJAEI|34|Mediocampista|7|RI de Irán
+Omid EBRAHIMI|30|Mediocampista|9|RI de Irán
+Vahid AMIRI|30|Mediocampista|11|RI de Irán
+Karim ANSARIFARD|28|Delantero|10|RI de Irán
+Saman GHODDOS|24|Delantero|14|RI de Irán
+Reza GHOOCHANNEJHAD|30|Delantero|16|RI de Irán
+Mehdi TAREMI|26|Delantero|17|RI de Irán
+Alireza JAHANBAKHSH|24|Delantero|18|RI de Irán
+Sardar AZMOUN|23|Delantero|20|RI de Irán
+Ashkan DEJAGAH|32|Delantero|21|RI de Irán
+QUEIROZ Carlos|65|Entrenador|0|RI de Irán
+Igor AKINFEEV|32|Arquero|1|Rusia
+Andrei LUNEV|26|Arquero|12|Rusia
+Vladimir GABULOV|34|Arquero|20|Rusia
+MARIO FERNANDES|27|Defensor|2|Rusia
+Ilya KUTEPOV|25|Defensor|3|Rusia
+Sergey IGNASHEVICH|39|Defensor|4|Rusia
+Andrey SEMENOV|29|Defensor|5|Rusia
+Fedor KUDRIASHOV|31|Defensor|13|Rusia
+Vladimir GRANAT|31|Defensor|14|Rusia
+Igor SMOLNIKOV|30|Defensor|23|Rusia
+Denis CHERYSHEV|27|Mediocampista|6|Rusia
+Daler KUZIAEV|25|Mediocampista|7|Rusia
+Iury GAZINSKY|29|Mediocampista|8|Rusia
+Alan DZAGOEV|28|Mediocampista|9|Rusia
+Roman ZOBNIN|24|Mediocampista|11|Rusia
+Alexey MIRANCHUK|22|Mediocampista|15|Rusia
+Anton MIRANCHUK|22|Mediocampista|16|Rusia
+Aleksandr GOLOVIN|22|Mediocampista|17|Rusia
+Yury ZHIRKOV|34|Mediocampista|18|Rusia
+Alexander SAMEDOV|34|Mediocampista|19|Rusia
+Aleksandr EROKHIN|28|Mediocampista|21|Rusia
+Fedor SMOLOV|28|Delantero|10|Rusia
+Artem DZYUBA|29|Delantero|22|Rusia
+CHERCHESOV Stanislav|54|Entrenador|0|Rusia
+Abdoulaye DIALLO|26|Arquero|1|Senegal
+Khadim NDIAYE|33|Arquero|16|Senegal
+Alfred GOMIS|24|Arquero|23|Senegal
+Adama MBENGUE|24|Defensor|2|Senegal
+Kalidou KOULIBALY|27|Defensor|3|Senegal
+Kara MBODJI|28|Defensor|4|Senegal
+Youssouf SABALY|25|Defensor|12|Senegal
+Lamine GASSAMA|28|Defensor|21|Senegal
+Moussa WAGUE|19|Defensor|22|Senegal
+Idrissa Gana GUEYE|28|Mediocampista|5|Senegal
+Salif SANE|27|Mediocampista|6|Senegal
+Cheikhou KOUYATE|28|Mediocampista|8|Senegal
+Cheikh NDOYE|32|Mediocampista|11|Senegal
+Alfred NDIAYE|28|Mediocampista|13|Senegal
+Pape Alioune NDIAYE|27|Mediocampista|17|Senegal
+Moussa SOW|32|Delantero|7|Senegal
+Mame DIOUF|30|Delantero|9|Senegal
+Sadio MANE|26|Delantero|10|Senegal
+Moussa KONATE|25|Delantero|14|Senegal
+Diafra SAKHO|28|Delantero|15|Senegal
+Ismaila SARR|20|Delantero|18|Senegal
+Mbaye NIANG|23|Delantero|19|Senegal
+Keita BALDE|23|Delantero|20|Senegal
+CISSE Aliou|42|Entrenador|0|Senegal
+Vladimir STOJKOVIC|35|Arquero|1|Serbia
+Predrag RAJKOVIC|22|Arquero|12|Serbia
+Marko DMITROVIC|26|Arquero|23|Serbia
+Antonio RUKAVINA|34|Defensor|2|Serbia
+Dusko TOSIC|33|Defensor|3|Serbia
+Uros SPAJIC|25|Defensor|5|Serbia
+Branislav IVANOVIC|34|Defensor|6|Serbia
+Aleksandar KOLAROV|32|Defensor|11|Serbia
+Milos VELJKOVIC|22|Defensor|13|Serbia
+Milan RODIC|27|Defensor|14|Serbia
+Nikola MILENKOVIC|20|Defensor|15|Serbia
+Luka MILIVOJEVIC|27|Mediocampista|4|Serbia
+Andrija ZIVKOVIC|22|Mediocampista|7|Serbia
+Dusan TADIC|29|Mediocampista|10|Serbia
+Marko GRUJIC|22|Mediocampista|16|Serbia
+Filip KOSTIC|25|Mediocampista|17|Serbia
+Sergej MILINKOVIC-SAVIC|23|Mediocampista|20|Serbia
+Nemanja MATIC|30|Mediocampista|21|Serbia
+Adem LJAJIC|26|Mediocampista|22|Serbia
+Aleksandar PRIJOVIC|28|Delantero|8|Serbia
+Aleksandar MITROVIC|23|Delantero|9|Serbia
+Nemanja RADONJIC|22|Delantero|18|Serbia
+Luka JOVIC|20|Delantero|19|Serbia
+KRSTAJIC Mladen|44|Entrenador|0|Serbia
+Robin OLSEN|28|Arquero|1|Suecia
+Karl-Johan JOHNSSON|28|Arquero|12|Suecia
+Kristoffer NORDFELDT|29|Arquero|23|Suecia
+Mikael LUSTIG|31|Defensor|2|Suecia
+Victor LINDELOF|24|Defensor|3|Suecia
+Andreas GRANQVIST|33|Defensor|4|Suecia
+Martin OLSSON|30|Defensor|5|Suecia
+Ludwig AUGUSTINSSON|24|Defensor|6|Suecia
+Filip HELANDER|25|Defensor|14|Suecia
+Emil KRAFTH|24|Defensor|16|Suecia
+Pontus JANSSON|27|Defensor|18|Suecia
+Sebastian LARSSON|33|Mediocampista|7|Suecia
+Albin EKDAL|29|Mediocampista|8|Suecia
+Emil FORSBERG|26|Mediocampista|10|Suecia
+Gustav SVENSSON|31|Mediocampista|13|Suecia
+Oscar HILJEMARK|26|Mediocampista|15|Suecia
+Viktor CLAESSON|26|Mediocampista|17|Suecia
+Marcus ROHDEN|27|Mediocampista|19|Suecia
+Jimmy DURMAZ|29|Mediocampista|21|Suecia
+Marcus BERG|31|Delantero|9|Suecia
+John GUIDETTI|26|Delantero|11|Suecia
+Ola TOIVONEN|32|Delantero|20|Suecia
+Isaac Kiese THELIN|26|Delantero|22|Suecia
+ANDERSSON Janne|55|Entrenador|0|Suecia
+Yann SOMMER|29|Arquero|1|Suiza
+Yvon MVOGO|24|Arquero|12|Suiza
+Roman BUERKI|27|Arquero|21|Suiza
+Stephan LICHTSTEINER|34|Defensor|2|Suiza
+Francois MOUBANDJE|28|Defensor|3|Suiza
+Nico ELVEDI|21|Defensor|4|Suiza
+Manuel AKANJI|23|Defensor|5|Suiza
+Michael LANG|27|Defensor|6|Suiza
+Ricardo RODRIGUEZ|25|Defensor|13|Suiza
+Johan DJOUROU|31|Defensor|20|Suiza
+Fabian SCHAER|26|Defensor|22|Suiza
+Remo FREULER|26|Mediocampista|8|Suiza
+Granit XHAKA|25|Mediocampista|10|Suiza
+Valon BEHRAMI|33|Mediocampista|11|Suiza
+Steven ZUBER|26|Mediocampista|14|Suiza
+Blerim DZEMAILI|32|Mediocampista|15|Suiza
+Gelson FERNANDES|31|Mediocampista|16|Suiza
+Denis ZAKARIA|21|Mediocampista|17|Suiza
+Xherdan SHAQIRI|26|Mediocampista|23|Suiza
+Breel EMBOLO|21|Delantero|7|Suiza
+Haris SEFEROVIC|26|Delantero|9|Suiza
+Mario GAVRANOVIC|28|Delantero|18|Suiza
+Josip DRMIC|26|Delantero|19|Suiza
+PETKOVIC Vladimir|54|Entrenador|0|Suiza
+Fernando MUSLERA|32|Arquero|1|Uruguay
+Martin CAMPANA|29|Arquero|12|Uruguay
+Martin SILVA|35|Arquero|23|Uruguay
+Jose GIMENEZ|23|Defensor|2|Uruguay
+Diego GODIN|32|Defensor|3|Uruguay
+Guillermo VARELA|25|Defensor|4|Uruguay
+Gaston SILVA|24|Defensor|13|Uruguay
+Maximiliano PEREIRA|34|Defensor|16|Uruguay
+Sebastian COATES|27|Defensor|19|Uruguay
+Martin CACERES|31|Defensor|22|Uruguay
+Carlos SANCHEZ|33|Mediocampista|5|Uruguay
+Rodrigo BENTANCUR|21|Mediocampista|6|Uruguay
+Cristian RODRIGUEZ|32|Mediocampista|7|Uruguay
+Nahitan NANDEZ|22|Mediocampista|8|Uruguay
+Lucas TORREIRA|22|Mediocampista|14|Uruguay
+Matias VECINO|26|Mediocampista|15|Uruguay
+Diego LAXALT|25|Mediocampista|17|Uruguay
+Luis SUAREZ|31|Delantero|9|Uruguay
+Giorgian DE ARRASCAETA|24|Delantero|10|Uruguay
+Cristhian STUANI|31|Delantero|11|Uruguay
+Maximiliano GOMEZ|21|Delantero|18|Uruguay
+Jonathan URRETAVISCAYA|28|Delantero|20|Uruguay
+Edinson CAVANI|31|Delantero|21|Uruguay
+TABAREZ Oscar|71|Entrenador|0|Uruguay
+Farouk BEN MUSTAPHA|29|Arquero|1|Túnez
+Aymen MATHLOUTHI|33|Arquero|16|Túnez
+Mouez HASSEN|23|Arquero|22|Túnez
+Syam BEN YOUSSEF|29|Defensor|2|Túnez
+Yohan BEN ALOUANE|31|Defensor|3|Túnez
+Yassine MERIAH|25|Defensor|4|Túnez
+Oussama HADDADI|26|Defensor|5|Túnez
+Rami BEDOUI|28|Defensor|6|Túnez
+Dylan BRONN|23|Defensor|11|Túnez
+Ali MAALOUL|28|Defensor|12|Túnez
+Hamdi NAGUEZ|25|Defensor|21|Túnez
+Anice BADRI|27|Mediocampista|9|Túnez
+Ferjani SASSI|26|Mediocampista|13|Túnez
+Mohamed BEN AMOR|26|Mediocampista|14|Túnez
+Ellyes SKHIRI|23|Mediocampista|17|Túnez
+Saifeddine KHAOUI|23|Delantero|7|Túnez
+Fakhreddine BEN YOUSSEF|27|Delantero|8|Túnez
+Wahbi KHAZRI|27|Delantero|10|Túnez
+Ahmed KHALIL|23|Delantero|15|Túnez
+Bassem SRARFI|21|Delantero|18|Túnez
+Saber KHALIFA|31|Delantero|19|Túnez
+Ghaylen CHAALELI|24|Delantero|20|Túnez
+Naim SLITI|26|Delantero|23|Túnez
+MAALOUL Nabil|55|Entrenador|0|Túnez
